@@ -1,0 +1,761 @@
+"../../../Engine/Content/EngineMaterials/T_Default_Material_Grid_N.uasset" 0
+"../../../Engine/Content/EngineMaterials/T_Default_Material_Grid_M.uasset" 1
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Opacity/CameraDepthFade.uasset" 2
+"../../../Engine/Content/EngineMaterials/WorldGridMaterial.uasset" 3
+"../../../Engine/Content/ArtTools/RenderToTexture/Meshes/S_1_Unit_Plane.uasset" 4
+"../../../Engine/Content/EngineMaterials/DefaultMaterial.uasset" 5
+"../../../Engine/Content/BasicShapes/Cone.uasset" 6
+"../../../Engine/Content/BasicShapes/Cube.uasset" 7
+"../../../Engine/Content/BasicShapes/Plane.uasset" 8
+"../../../Engine/Content/BasicShapes/Sphere.uasset" 9
+"../../../Engine/Content/EngineMaterials/DefaultPhysicalMaterial.uasset" 10
+"../../../Engine/Content/BufferVisualization/AmbientOcclusion.uasset" 11
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/AppendMany.uasset" 12
+"../../../Engine/Content/BufferVisualization/Anisotropy.uasset" 13
+"../../../Engine/Content/BufferVisualization/BaseColor.uasset" 14
+"../../../Engine/Content/BufferVisualization/CustomDepth.uasset" 15
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/VectorLength.uasset" 16
+"../../../Engine/Content/BufferVisualization/CustomDepthWorldUnits.uasset" 17
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/BreakOutFloat2Components.uasset" 18
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Texturing/ScaleUVsByCenter.uasset" 19
+"../../../Engine/Content/EngineMaterials/MiniFont.uasset" 20
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/MakeFloat3.uasset" 21
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/MakeFloat2.uasset" 22
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/ScreenResolution.uasset" 23
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Texturing/ScreenAlignedUVs.uasset" 24
+"../../../Engine/Content/BufferVisualization/CustomStencil.uasset" 25
+"../../../Engine/Content/BufferVisualization/FinalImage.uasset" 26
+"../../../Engine/Content/BufferVisualization/LightingModel.uasset" 27
+"../../../Engine/Content/BufferVisualization/MaterialAO.uasset" 28
+"../../../Engine/Content/BufferVisualization/Metallic.uasset" 29
+"../../../Engine/Content/BufferVisualization/Opacity.uasset" 30
+"../../../Engine/Content/BufferVisualization/PostTonemapHDRColor.uasset" 31
+"../../../Engine/Content/BufferVisualization/PreTonemapHDRColor.uasset" 32
+"../../../Engine/Content/BufferVisualization/Roughness.uasset" 33
+"../../../Engine/Content/BufferVisualization/SceneColor.uasset" 34
+"../../../Engine/Content/BufferVisualization/SceneDepth.uasset" 35
+"../../../Engine/Content/BufferVisualization/SceneDepthWorldUnits.uasset" 36
+"../../../Engine/Content/BufferVisualization/SeparateTranslucencyA.uasset" 37
+"../../../Engine/Content/BufferVisualization/SeparateTranslucencyRGB.uasset" 38
+"../../../Engine/Content/BufferVisualization/Specular.uasset" 39
+"../../../Engine/Content/BufferVisualization/SubsurfaceColor.uasset" 40
+"../../../Engine/Content/BufferVisualization/Velocity.uasset" 41
+"../../../Engine/Content/BufferVisualization/WorldNormal.uasset" 42
+"../../../Engine/Content/BufferVisualization/WorldTangent.uasset" 43
+"../../../Engine/Content/EditorLandscapeResources/DataLayer.uasset" 44
+"../../../Engine/Content/EditorLandscapeResources/DefaultAlphaTexture.uasset" 45
+"../../../Engine/Content/EditorLandscapeResources/LandscapeGizmoHeight_Mat.uasset" 46
+"../../../Engine/Content/EditorLandscapeResources/LandscapeGizmo_Mat.uasset" 47
+"../../../Engine/Content/EditorLandscapeResources/LandscapeGizmo_Mat_Copied.uasset" 48
+"../../../Engine/Content/EditorLandscapeResources/SplineEditorMeshMat.uasset" 49
+"../../../Engine/Content/EditorLandscapeResources/SplineEditorMesh.uasset" 50
+"../../../Engine/Content/EditorMaterials/Cross.uasset" 51
+"../../../Engine/Content/EditorMaterials/Cross_Mat.uasset" 52
+"../../../Engine/Content/EditorResources/T_EditorHelp.uasset" 53
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/ExampleContent/Textures/DebugNumberPeriod.uasset" 54
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/ExampleContent/DebugNumberStrip.uasset" 55
+"../../../Engine/Content/EngineMaterials/DefaultDiffuse.uasset" 56
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Texturing/TextureCropping.uasset" 57
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Texturing/ComputeMipLevel.uasset" 58
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/DebugScalarValues.uasset" 59
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/DebugFloat2Values.uasset" 60
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/ExampleContent/Textures/flipbook.uasset" 61
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Texturing/FlipBook.uasset" 62
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/Sign.uasset" 63
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/Round.uasset" 64
+"../../../Engine/Content/EditorMaterials/HelpActorMaterial.uasset" 65
+"../../../Engine/Content/Functions/Engine_MaterialFunctions03/Procedurals/ComputeFilterWidth.uasset" 66
+"../../../Engine/Content/EngineMaterials/BlendFunc_DefBlend.uasset" 67
+"../../../Engine/Content/EngineMaterials/BlendFunc_DefBase.uasset" 68
+"../../../Engine/Content/Functions/Engine_MaterialFunctions03/Blends/Blend_Screen.uasset" 69
+"../../../Engine/Content/EditorMaterials/TilingAALineIntegral.uasset" 70
+"../../../Engine/Content/EditorMaterials/TilingAALineBoxFiltered.uasset" 71
+"../../../Engine/Content/EditorMaterials/TilingAAGrid.uasset" 72
+"../../../Engine/Content/EditorMaterials/TilingAADots.uasset" 73
+"../../../Engine/Content/EditorMaterials/CompositeARGBLayer.uasset" 74
+"../../../Engine/Content/EditorMaterials/LevelGridMaterial.uasset" 75
+"../../../Engine/Content/EditorMaterials/MAT_Groups_Toggle.uasset" 76
+"../../../Engine/Content/EditorMaterials/MAT_Groups_Visibility.uasset" 77
+"../../../Engine/Content/EditorMaterials/PhAT_BoneSelectedMaterial.uasset" 78
+"../../../Engine/Content/EditorMaterials/PhAT_ElemSelectedMaterial.uasset" 79
+"../../../Engine/Content/EditorMaterials/PhAT_NoCollisionMaterial.uasset" 80
+"../../../Engine/Content/EditorMaterials/PhAT_UnselectedMaterial.uasset" 81
+"../../../Engine/Content/EditorMaterials/PreviewShadowIndicator.uasset" 82
+"../../../Engine/Content/EditorMaterials/PreviewShadowIndicatorMaterial.uasset" 83
+"../../../Engine/Content/EditorMaterials/TargetIcon.uasset" 84
+"../../../Engine/Content/EditorMaterials/Tick.uasset" 85
+"../../../Engine/Content/EditorMaterials/Tick_Mat.uasset" 86
+"../../../Engine/Content/EditorMaterials/WidgetGridVertexColorMaterial.uasset" 87
+"../../../Engine/Content/EditorMaterials/WidgetGridVertexColorMaterial_Ma.uasset" 88
+"../../../Engine/Content/EditorMaterials/WidgetMaterial.uasset" 89
+"../../../Engine/Content/EditorMaterials/WidgetMaterial_Current.uasset" 90
+"../../../Engine/Content/EditorMaterials/WidgetMaterial_X.uasset" 91
+"../../../Engine/Content/EditorMaterials/WidgetMaterial_Y.uasset" 92
+"../../../Engine/Content/EditorMaterials/WidgetMaterial_Z.uasset" 93
+"../../../Engine/Content/EditorMaterials/WidgetVertexColorMaterial.uasset" 94
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_ColorTrack.uasset" 95
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Anim.uasset" 96
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_AudioMaster.uasset" 97
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Director.uasset" 98
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Event.uasset" 99
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Fade.uasset" 100
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Float.uasset" 101
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Move.uasset" 102
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Slomo.uasset" 103
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Sound.uasset" 104
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Vector.uasset" 105
+"../../../Engine/Content/EditorMaterials/ParticleSystems/PSysThumbnail_NoImage.uasset" 106
+"../../../Engine/Content/EditorMaterials/ParticleSystems/PSysThumbnail_OOD.uasset" 107
+"../../../Engine/Content/EngineMaterials/Grid.uasset" 108
+"../../../Engine/Content/EditorMaterials/Thumbnails/FloorPlaneMaterial.uasset" 109
+"../../../Engine/Content/EditorMeshes/EditorCube.uasset" 110
+"../../../Engine/Content/EditorMeshes/EditorCylinder.uasset" 111
+"../../../Engine/Content/EditorMeshes/EditorPlane.uasset" 112
+"../../../Engine/Content/EditorMaterials/Thumbnails/SkySphereMaterial.uasset" 113
+"../../../Engine/Content/EditorMeshes/EditorSkySphere.uasset" 114
+"../../../Engine/Content/EditorMeshes/EditorSphere.uasset" 115
+"../../../Engine/Content/EditorResources/MatineeCam_D.uasset" 116
+"../../../Engine/Content/EditorMaterials/MatineeCam_mat.uasset" 117
+"../../../Engine/Content/EditorMeshes/MatineeCam_SM.uasset" 118
+"../../../Engine/Content/EditorMeshes/PlanarReflectionPlane.uasset" 119
+"../../../Engine/Content/EngineDebugMaterials/M_SimpleOpaque.uasset" 120
+"../../../Engine/Content/EditorMaterials/Camera/MI_CineMat_CamViewFinder.uasset" 121
+"../../../Engine/Content/EditorMaterials/Camera/CineMat.uasset" 122
+"../../../Engine/Content/EditorMaterials/Camera/MI_CineMat_CameraBody.uasset" 123
+"../../../Engine/Content/EditorMeshes/Camera/SM_CineCam.uasset" 124
+"../../../Engine/Content/EditorMaterials/Camera/MI_CineMat_Rig.uasset" 125
+"../../../Engine/Content/EditorMeshes/Camera/SM_CraneRig_Arm.uasset" 126
+"../../../Engine/Content/EditorMeshes/Camera/SM_CraneRig_Base.uasset" 127
+"../../../Engine/Content/EditorMeshes/Camera/SM_CraneRig_Body.uasset" 128
+"../../../Engine/Content/EditorMeshes/Camera/SM_CraneRig_Mount.uasset" 129
+"../../../Engine/Content/EditorMeshes/Camera/SM_RailRig_Mount.uasset" 130
+"../../../Engine/Content/EditorMeshes/Camera/SM_RailRig_Track.uasset" 131
+"../../../Engine/Content/EditorMeshes/ColorCalibrator/M_ChromeBall.uasset" 132
+"../../../Engine/Content/EditorResources/Bad.uasset" 133
+"../../../Engine/Content/EditorResources/BSPVertex.uasset" 134
+"../../../Engine/Content/EditorResources/EmptyActor.uasset" 135
+"../../../Engine/Content/EditorResources/MatInstActSprite.uasset" 136
+"../../../Engine/Content/EditorResources/SceneManager.uasset" 137
+"../../../Engine/Content/EditorResources/SmallFont.uasset" 138
+"../../../Engine/Content/EditorResources/S_Actor.uasset" 139
+"../../../Engine/Content/EditorResources/S_CameraShakeSource.uasset" 140
+"../../../Engine/Content/EditorResources/S_DecalActorIcon.uasset" 141
+"../../../Engine/Content/EditorResources/S_Emitter.uasset" 142
+"../../../Engine/Content/EditorResources/S_ExpoHeightFog.uasset" 143
+"../../../Engine/Content/EditorResources/S_FTest.uasset" 144
+"../../../Engine/Content/EditorResources/S_KBSJoint.uasset" 145
+"../../../Engine/Content/EditorResources/S_KHinge.uasset" 146
+"../../../Engine/Content/EditorResources/S_KPrismatic.uasset" 147
+"../../../Engine/Content/EditorResources/S_LevelSequence.uasset" 148
+"../../../Engine/Content/EditorResources/S_NavP.uasset" 149
+"../../../Engine/Content/EditorResources/S_Note.uasset" 150
+"../../../Engine/Content/EditorResources/S_Player.uasset" 151
+"../../../Engine/Content/EditorResources/S_PortalActorIcon2.uasset" 152
+"../../../Engine/Content/EditorResources/S_RadForce.uasset" 153
+"../../../Engine/Content/EditorResources/S_ReflActorIcon.uasset" 154
+"../../../Engine/Content/EditorResources/S_SkyAtmosphere.uasset" 155
+"../../../Engine/Content/EditorResources/S_Solver.uasset" 156
+"../../../Engine/Content/EditorResources/S_Terrain.uasset" 157
+"../../../Engine/Content/EditorResources/S_TextRenderActorIcon.uasset" 158
+"../../../Engine/Content/EditorResources/S_Thruster.uasset" 159
+"../../../Engine/Content/EditorResources/S_Trigger.uasset" 160
+"../../../Engine/Content/EditorResources/S_VectorFieldVol.uasset" 161
+"../../../Engine/Content/EditorResources/S_VolumetricCloud.uasset" 162
+"../../../Engine/Content/EditorResources/S_WindDirectional.uasset" 163
+"../../../Engine/Content/EditorResources/AI/S_NavLink.uasset" 164
+"../../../Engine/Content/EditorResources/AudioIcons/S_AudioComponent.uasset" 165
+"../../../Engine/Content/EditorResources/AudioIcons/S_AudioComponent_AutoActivate.uasset" 166
+"../../../Engine/Content/EditorResources/LightIcons/SkyLight.uasset" 167
+"../../../Engine/Content/EditorResources/LightIcons/S_LightDirectional.uasset" 168
+"../../../Engine/Content/EditorResources/LightIcons/S_LightDirectionalMove.uasset" 169
+"../../../Engine/Content/EditorResources/LightIcons/S_LightError.uasset" 170
+"../../../Engine/Content/EditorResources/LightIcons/S_LightPoint.uasset" 171
+"../../../Engine/Content/EditorResources/LightIcons/S_LightPointMove.uasset" 172
+"../../../Engine/Content/EditorResources/LightIcons/S_LightSpot.uasset" 173
+"../../../Engine/Content/EditorResources/LightIcons/S_LightSpotMove.uasset" 174
+"../../../Engine/Content/EditorResources/SequenceRecorder/Countdown.uasset" 175
+"../../../Engine/Content/EditorResources/SequenceRecorder/RecordingIndicator.uasset" 176
+"../../../Engine/Content/EditorResources/Spline/T_Loft_Spline.uasset" 177
+"../../../Engine/Content/EditorSounds/Notifications/CompileSuccess.uasset" 178
+"../../../Engine/Content/EditorSounds/Notifications/CompileStart_Cue.uasset" 179
+"../../../Engine/Content/EditorSounds/Notifications/CompileSuccess_Cue.uasset" 180
+"../../../Engine/Content/EngineDamageTypes/DmgTypeBP_Environmental.uasset" 181
+"../../../Engine/Content/EngineDebugMaterials/HeatmapGradient.uasset" 182
+"../../../Engine/Content/EngineDebugMaterials/BoneWeightMaterial.uasset" 183
+"../../../Engine/Content/EngineDebugMaterials/ClothMaterial.uasset" 184
+"../../../Engine/Content/EngineDebugMaterials/ClothMaterial_WF.uasset" 185
+"../../../Engine/Content/EngineDebugMaterials/DebugEditorMaterial.uasset" 186
+"../../../Engine/Content/EngineDebugMaterials/DebugMeshMaterial.uasset" 187
+"../../../Engine/Content/EngineDebugMaterials/GeomMaterial.uasset" 188
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Shading/ConvertFromDiffSpec.uasset" 189
+"../../../Engine/Content/EngineDebugMaterials/LevelColorationLitMaterial.uasset" 190
+"../../../Engine/Content/EngineDebugMaterials/LevelColorationUnlitMaterial.uasset" 191
+"../../../Engine/Content/EngineMaterials/DefaultWhiteGrid.uasset" 192
+"../../../Engine/Content/EngineDebugMaterials/MAT_LevelColorationLitLightmapUV.uasset" 193
+"../../../Engine/Content/EngineDebugMaterials/M_SimpleUnlitTranslucent.uasset" 194
+"../../../Engine/Content/EngineDebugMaterials/VolumeToRender.uasset" 195
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/CameraDirectionVector.uasset" 196
+"../../../Engine/Content/EngineDebugMaterials/M_VolumeRenderSphereTracePP.uasset" 197
+"../../../Engine/Content/EngineMaterials/DefaultWhiteGrid_Low.uasset" 198
+"../../../Engine/Content/EngineDebugMaterials/PhysicalMaterialMaskMaterial.uasset" 199
+"../../../Engine/Content/EngineDebugMaterials/ShadedLevelColorationLitMaterial.uasset" 200
+"../../../Engine/Content/EngineDebugMaterials/ShadedLevelColorationUnlitMateri.uasset" 201
+"../../../Engine/Content/EngineDebugMaterials/VertexColorMaterial.uasset" 202
+"../../../Engine/Content/EngineDebugMaterials/VertexColorViewMode_AlphaAsColor.uasset" 203
+"../../../Engine/Content/EngineDebugMaterials/VertexColorViewMode_BlueOnly.uasset" 204
+"../../../Engine/Content/EngineDebugMaterials/VertexColorViewMode_ColorOnly.uasset" 205
+"../../../Engine/Content/EngineDebugMaterials/VertexColorViewMode_GreenOnly.uasset" 206
+"../../../Engine/Content/EngineDebugMaterials/VertexColorViewMode_RedOnly.uasset" 207
+"../../../Engine/Content/EngineDebugMaterials/WireframeMaterial.uasset" 208
+"../../../Engine/Content/EngineFonts/Faces/RobotoRegular.uasset" 209
+"../../../Engine/Content/EngineFonts/Faces/RobotoLight.uasset" 210
+"../../../Engine/Content/EngineFonts/Faces/RobotoItalic.uasset" 211
+"../../../Engine/Content/EngineFonts/Faces/RobotoBoldItalic.uasset" 212
+"../../../Engine/Content/EngineFonts/Faces/RobotoBold.uasset" 213
+"../../../Engine/Content/EngineFonts/Faces/DroidSansFallback.uasset" 214
+"../../../Engine/Content/EngineFonts/Roboto.uasset" 215
+"../../../Engine/Content/EngineFonts/Faces/RobotoTiny.uasset" 216
+"../../../Engine/Content/EngineFonts/RobotoTiny.uasset" 217
+"../../../Engine/Content/EngineFonts/SmallFont.uasset" 218
+"../../../Engine/Content/EngineFonts/TinyFont.uasset" 219
+"../../../Engine/Content/EngineMaterials/BaseFlattenNormalMap.uasset" 220
+"../../../Engine/Content/EngineMaterials/BaseFlattenGrayscaleMap.uasset" 221
+"../../../Engine/Content/EngineMaterials/BaseFlattenEmissiveMap.uasset" 222
+"../../../Engine/Content/EngineMaterials/BaseFlattenDiffuseMap.uasset" 223
+"../../../Engine/Content/EngineMaterials/BaseFlattenMaterial.uasset" 224
+"../../../Engine/Content/EngineResources/WhiteSquareTexture.uasset" 225
+"../../../Engine/Content/EngineMaterials/BlinkingCaret.uasset" 226
+"../../../Engine/Content/EngineMaterials/BlueNoise.uasset" 227
+"../../../Engine/Content/EngineMaterials/DefaultBloomKernel.uasset" 228
+"../../../Engine/Content/EngineMaterials/DefaultBokeh.uasset" 229
+"../../../Engine/Content/EngineMaterials/DefaultDeferredDecalMaterial.uasset" 230
+"../../../Engine/Content/EngineMaterials/DefaultLightFunctionMaterial.uasset" 231
+"../../../Engine/Content/EngineMaterials/DefaultNormal.uasset" 232
+"../../../Engine/Content/EngineMaterials/DefaultPostProcessMaterial.uasset" 233
+"../../../Engine/Content/EngineFonts/RobotoDistanceField.uasset" 234
+"../../../Engine/Content/EngineMaterials/DefaultTextMaterialOpaque.uasset" 235
+"../../../Engine/Content/EngineMaterials/EditorBrushMaterial.uasset" 236
+"../../../Engine/Content/EngineMaterials/EmissiveMeshMaterial.uasset" 237
+"../../../Engine/Content/EngineMaterials/GizmoMaterial.uasset" 238
+"../../../Engine/Content/EngineMaterials/Good64x64TilingNoiseHighFreq.uasset" 239
+"../../../Engine/Content/EngineMaterials/Grid_N.uasset" 240
+"../../../Engine/Content/EngineMaterials/HighResolutionScreenshotMaskFunction.uasset" 241
+"../../../Engine/Content/EngineMaterials/HighResScreenshot.uasset" 242
+"../../../Engine/Content/EngineMaterials/HighResScreenshotCaptureRegion.uasset" 243
+"../../../Engine/Content/EngineMaterials/HighResScreenshotMask.uasset" 244
+"../../../Engine/Content/EngineMaterials/LandscapeHolePhysicalMaterial.uasset" 245
+"../../../Engine/Content/EngineMaterials/InvalidLightmapSettings.uasset" 246
+"../../../Engine/Content/EngineMaterials/M_InvalidLightmapSettings.uasset" 247
+"../../../Engine/Content/EngineMaterials/PaperDiffuse.uasset" 248
+"../../../Engine/Content/EngineMaterials/PaperNormal.uasset" 249
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/WorldPositionOffset/CameraOffset.uasset" 250
+"../../../Engine/Content/EngineMaterials/PhAT_JointLimitMaterial.uasset" 251
+"../../../Engine/Content/EngineMaterials/PhysMat_Rubber.uasset" 252
+"../../../Engine/Content/EngineMaterials/PreintegratedSkinBRDF.uasset" 253
+"../../../Engine/Content/EngineMaterials/RemoveSurfaceMaterial.uasset" 254
+"../../../Engine/Content/EngineMaterials/WeightMapPlaceholderTexture.uasset" 255
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/ImageAdjustment/sRGBToLinear.uasset" 256
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/BreakOutFloat3Components.uasset" 257
+"../../../Engine/Content/EngineMaterials/Widget3DCameraPassThrough_Opaque_OneSided.uasset" 258
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough.uasset" 259
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Masked.uasset" 260
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Opaque.uasset" 261
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Masked_OneSided.uasset" 262
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Opaque_OneSided.uasset" 263
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Translucent.uasset" 264
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Translucent_OneSided.uasset" 265
+"../../../Engine/Content/EngineMeshes/Cylinder.uasset" 266
+"../../../Engine/Content/EngineMeshes/Sphere.uasset" 267
+"../../../Engine/Content/EngineResources/Black.uasset" 268
+"../../../Engine/Content/EngineResources/DefaultTextureCube.uasset" 269
+"../../../Engine/Content/EngineResources/DefaultVolumeTexture2D.uasset" 270
+"../../../Engine/Content/EngineResources/DefaultVolumeTexture.uasset" 271
+"../../../Engine/Content/EngineResources/GradientTexture0.uasset" 272
+"../../../Engine/Content/EngineResources/StreamingPauseIcon.uasset" 273
+"../../../Engine/Content/EngineResources/M_StreamingPause.uasset" 274
+"../../../Engine/Content/EngineSky/VolumetricClouds/T_NoiseShape64.uasset" 275
+"../../../Engine/Content/EngineSky/VolumetricClouds/T_VolumeNoiseShape64.uasset" 276
+"../../../Engine/Content/EngineSky/VolumetricClouds/T_NoiseErosion.uasset" 277
+"../../../Engine/Content/EngineSky/VolumetricClouds/T_VolumeNoiseErosion32.uasset" 278
+"../../../Engine/Content/EngineSky/VolumetricClouds/CloudWeatherTexture.uasset" 279
+"../../../Engine/Content/EngineSky/VolumetricClouds/CloudGradientTexture.uasset" 280
+"../../../Engine/Content/EngineSky/VolumetricClouds/m_SimpleVolumetricCloud.uasset" 281
+"../../../Engine/Content/EngineSky/VolumetricClouds/m_SimpleVolumetricCloud_Inst.uasset" 282
+"../../../Engine/Content/EngineSounds/Master.uasset" 283
+"../../../Engine/Content/Maps/Templates/Thumbnails/Default.uasset" 284
+"../../../Engine/Content/Maps/Templates/Thumbnails/TimeOfDay.uasset" 285
+"../../../Engine/Content/Maps/Templates/Thumbnails/VR-Basic.uasset" 286
+"../../../Engine/Content/MapTemplates/Sky/DaylightAmbientCubemap.uasset" 287
+"../../../Engine/Content/MobileResources/T_MobileControls_texture.uasset" 288
+"../../../Engine/Content/MobileResources/T_MobileMenu2.uasset" 289
+"../../../Engine/Content/MobileResources/HUD/AnalogHat.uasset" 290
+"../../../Engine/Content/MobileResources/HUD/VirtualJoystick_Thumb.uasset" 291
+"../../../Engine/Content/MobileResources/HUD/VirtualJoystick_Background.uasset" 292
+"../../../Engine/Content/MobileResources/HUD/DefaultVirtualJoysticks.uasset" 293
+"../../../Engine/Content/MobileResources/HUD/LeftVirtualJoystickOnly.uasset" 294
+"../../../Engine/Content/MobileResources/HUD/MobileHUDButton1_off.uasset" 295
+"../../../Engine/Content/MobileResources/HUD/MobileHUDButton1_on.uasset" 296
+"../../../Engine/Content/MobileResources/HUD/MobileHUDButton2_off.uasset" 297
+"../../../Engine/Content/MobileResources/HUD/MobileHUDButton2_on.uasset" 298
+"../../../Engine/Content/MobileResources/HUD/MobileHUDButton3.uasset" 299
+"../../../Engine/Content/MobileResources/HUD/MobileHUDButtonFire.uasset" 300
+"../../../Engine/Content/MobileResources/HUD/MobileHUDDirectionPad.uasset" 301
+"../../../Engine/Content/MobileResources/HUD/MobileHUDDirectionPad2.uasset" 302
+"../../../Engine/Content/MobileResources/HUD/MobileHUDDirectionPad3.uasset" 303
+"../../../Engine/Content/MobileResources/HUD/MobileHUDDirectionStick.uasset" 304
+"../../../Engine/Content/MobileResources/HUD/T_Castle_ThumbstickInner.uasset" 305
+"../../../Engine/Content/MobileResources/HUD/T_Castle_ThumbstickOutter.uasset" 306
+"../../../Engine/Content/Tutorial/ContentIntroCurve.uasset" 307
+"../../../Engine/Content/Tutorial/Basics/LevelEditorAttract.uasset" 308
+"../../../Engine/Content/Tutorial/Basics/TutorialAssets/icon_tab_Levels_40x.uasset" 309
+"../../../Engine/Content/Tutorial/Basics/LevelEditorOverview.uasset" 310
+"../../../Engine/Content/Tutorial/Code/AddingCode.uasset" 311
+"../../../Engine/Content/VREditor/TransformGizmo/TranslucentTransformGizmoMaterial.uasset" 312
+"../../../Engine/Content/VREditor/LaserPointer/VR_LaserPower_01.uasset" 313
+"../../../Engine/Content/VREditor/TransformGizmo/TransformGizmoMaterial.uasset" 314
+"../../../Engine/Content/VREditor/TransformGizmo/BoundingBoxCorner.uasset" 315
+"../../../Engine/Content/VREditor/TransformGizmo/BoundingBoxEdge.uasset" 316
+"../../../Engine/Content/VREditor/TransformGizmo/PlaneTranslationHandle.uasset" 317
+"../../../Engine/Content/VREditor/TransformGizmo/Xray.uasset" 318
+"../../../Engine/Content/VREditor/TransformGizmo/Main.uasset" 319
+"../../../Engine/Content/VREditor/TransformGizmo/SM_Sequencer_Key.uasset" 320
+"../../../Engine/Content/VREditor/TransformGizmo/SM_Sequencer_Node.uasset" 321
+"../../../../../../Users/Liam Kujawski/Desktop/VR/MyProject-20210519T221455Z-001/MyProject/Content/UI/BP_UIPointerHandController.uasset" 322
+"../../../../../../Users/Liam Kujawski/Desktop/VR/MyProject-20210519T221455Z-001/MyProject/Content/UI/BP_UICharacter.uasset" 323
+"../../../../../../Users/Liam Kujawski/Desktop/VR/MyProject-20210519T221455Z-001/MyProject/Content/GameModes/BP_UIGameMode.uasset" 324
+"../../Plugins/2D/Paper2D/Content/PlaceholderTextures/DummySpriteTexture.uasset" 325
+"../../Plugins/2D/Paper2D/Content/DummySprite.uasset" 326
+"../../Plugins/2D/Paper2D/Content/DefaultPaperTerrainMaterial.uasset" 327
+"../../Plugins/2D/Paper2D/Content/DefaultSpriteMaterial.uasset" 328
+"../../Plugins/2D/Paper2D/Content/MaskedUnlitSpriteMaterial.uasset" 329
+"../../Plugins/2D/Paper2D/Content/OpaqueUnlitSpriteMaterial.uasset" 330
+"../../Plugins/FX/Niagara/Content/Enums/ENiagaraCoordinateSpace.uasset" 331
+"../../Plugins/FX/Niagara/Content/Enums/ENiagaraOrientationAxis.uasset" 332
+"../../Plugins/FX/Niagara/Content/Enums/ENiagaraRandomnessMode.uasset" 333
+"../../Plugins/FX/Niagara/Content/Icons/S_ParticleSystem.uasset" 334
+"../../../Engine/Content/BasicShapes/Cylinder.uasset" 335
+"../../../Engine/Content/ArtTools/RenderToTexture/Materials/Debug/M_Emissive_Color.uasset" 336
+"../../Plugins/Lumin/MagicLeapPassableWorld/Content/MagicLeapARPinInfoActor.uasset" 337
+"../../Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/UnpackInteger3.uasset" 338
+"../../Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/UnpackDirection.uasset" 339
+"../../Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/game_wind_noise.uasset" 340
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/SafeNormalize.uasset" 341
+"../../Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/SpeedTreeWindMotion.uasset" 342
+"../../Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/SpeedTreeBranchMotion.uasset" 343
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/ObjectLocalBounds.uasset" 344
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/UVs/BoundingBoxBased_0-1_UVW.uasset" 345
+"../../Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/SpeedTreeWind.uasset" 346
+"../../Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/SpeedTreeBillboard.uasset" 347
+"../../../Engine/Content/EngineResources/DefaultTexture.uasset" 348
+"../../Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/SpeedTreeBillboardMaster.uasset" 349
+"../../Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/SpeedTreeCameraFacing.uasset" 350
+"../../Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/SpeedTreeMaster.uasset" 351
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/BreakOutFloat4Components.uasset" 352
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Materials/OculusMR_ChromaKey.uasset" 353
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Materials/OculusMR_OpaqueColoredMaterial.uasset" 354
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Materials/PokeAHoleMaterial.uasset" 355
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Textures/touchController_controlmap.uasset" 356
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Textures/touchController_albedo.uasset" 357
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Materials/touchController_mat.uasset" 358
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Meshes/LeftTouchController.uasset" 359
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Textures/TouchForQuestRiftSController_albedo.uasset" 360
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Materials/TouchForQuestRiftSControllerMaterial.uasset" 361
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Meshes/LeftTouchForQuestRiftSController.uasset" 362
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Meshes/RiftHMD.uasset" 363
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Meshes/RightTouchController.uasset" 364
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Meshes/RightTouchForQuestRiftSController.uasset" 365
+"../../../Engine/Content/Maps/Entry_BuiltData.uasset" 366
+"../../../Engine/Content/Maps/Entry.umap" 367
+"../../../../../../Users/Liam Kujawski/Desktop/VR/MyProject-20210519T221455Z-001/MyProject/Content/ArchVizAssets/Assets/Textures/T_WallArch_N.uasset" 368
+"../../../../../../Users/Liam Kujawski/Desktop/VR/MyProject-20210519T221455Z-001/MyProject/Content/ArchVizAssets/Assets/Textures/T_WallArch_M.uasset" 369
+"../../../../../../Users/Liam Kujawski/Desktop/VR/MyProject-20210519T221455Z-001/MyProject/Content/ArchVizAssets/Assets/Materials/ML_TexCoordIndexParameter.uasset" 370
+"../../../../../../Users/Liam Kujawski/Desktop/VR/MyProject-20210519T221455Z-001/MyProject/Content/ArchVizAssets/Assets/Textures/T_PaintedMetal01_N.uasset" 371
+"../../../../../../Users/Liam Kujawski/Desktop/VR/MyProject-20210519T221455Z-001/MyProject/Content/ArchVizAssets/Assets/Textures/T_PaintedMetal01_D.uasset" 372
+"../../../../../../Users/Liam Kujawski/Desktop/VR/MyProject-20210519T221455Z-001/MyProject/Content/ArchVizAssets/Assets/Materials/ML_COG_Metal_Base_Light.uasset" 373
+"../../../../../../Users/Liam Kujawski/Desktop/VR/MyProject-20210519T221455Z-001/MyProject/Content/ArchVizAssets/Assets/Textures/T_COG_Generic_Concrete_Base02_N.uasset" 374
+"../../../../../../Users/Liam Kujawski/Desktop/VR/MyProject-20210519T221455Z-001/MyProject/Content/ArchVizAssets/Assets/Textures/T_COG_Generic_Concrete_Base02_D.uasset" 375
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Gradient/LinearGradient.uasset" 376
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/ImageAdjustment/CheapContrast.uasset" 377
+"../../../../../../Users/Liam Kujawski/Desktop/VR/MyProject-20210519T221455Z-001/MyProject/Content/ArchVizAssets/Assets/Materials/ML_COG_Generic_Concrete_Base02.uasset" 378
+"../../../Engine/Content/Functions/MaterialLayerFunctions/MatLayerBlend_Standard.uasset" 379
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/BlendAngleCorrectedNormals.uasset" 380
+"../../../Engine/Content/Functions/MaterialLayerFunctions/MatLayerBlend_NormalBlend.uasset" 381
+"../../../../../../Users/Liam Kujawski/Desktop/VR/MyProject-20210519T221455Z-001/MyProject/Content/ArchVizAssets/Assets/Materials/M_WallArch_Mat.uasset" 382
+"../../../../../../Users/Liam Kujawski/Desktop/VR/MyProject-20210519T221455Z-001/MyProject/Content/ArchVizAssets/Assets/Materials/M_WallArch_Mat_Inst.uasset" 383
+"../../../../../../Users/Liam Kujawski/Desktop/VR/MyProject-20210519T221455Z-001/MyProject/Content/ArchVizAssets/Assets/Textures/T_COG_Concrete_Wall01_N.uasset" 384
+"../../../../../../Users/Liam Kujawski/Desktop/VR/MyProject-20210519T221455Z-001/MyProject/Content/ArchVizAssets/Assets/Textures/T_COG_Concrete_Wall01_D.uasset" 385
+"../../../../../../Users/Liam Kujawski/Desktop/VR/MyProject-20210519T221455Z-001/MyProject/Content/ArchVizAssets/Assets/Materials/ML_COG_Concrete_Wall01.uasset" 386
+"../../../../../../Users/Liam Kujawski/Desktop/VR/MyProject-20210519T221455Z-001/MyProject/Content/ArchVizAssets/Assets/Materials/M_WallArch_Mat_Concrete.uasset" 387
+"../../../../../../Users/Liam Kujawski/Desktop/VR/MyProject-20210519T221455Z-001/MyProject/Content/ArchVizAssets/Assets/Meshes/SM_WallArch_Support_Buttress.uasset" 388
+"../../../../../../Users/Liam Kujawski/Desktop/VR/MyProject-20210519T221455Z-001/MyProject/Content/ArchVizAssets/Assets/Textures/T_Plank_1_by_1_N.uasset" 389
+"../../../../../../Users/Liam Kujawski/Desktop/VR/MyProject-20210519T221455Z-001/MyProject/Content/ArchVizAssets/Assets/Textures/T_Grime_Lines_M.uasset" 390
+"../../../../../../Users/Liam Kujawski/Desktop/VR/MyProject-20210519T221455Z-001/MyProject/Content/ArchVizAssets/Assets/Textures/T_Monitor_Screen_M.uasset" 391
+"../../../../../../Users/Liam Kujawski/Desktop/VR/MyProject-20210519T221455Z-001/MyProject/Content/ArchVizAssets/Assets/Textures/T_PositionalNoise_D.uasset" 392
+"../../../../../../Users/Liam Kujawski/Desktop/VR/MyProject-20210519T221455Z-001/MyProject/Content/ArchVizAssets/Assets/Materials/ML_HOLO_Noise.uasset" 393
+"../../../../../../Users/Liam Kujawski/Desktop/VR/MyProject-20210519T221455Z-001/MyProject/Content/ArchVizAssets/Assets/Materials/M_Underground_Monitor_Blank.uasset" 394
+"../../../../../../Users/Liam Kujawski/Desktop/VR/MyProject-20210519T221455Z-001/MyProject/Content/ArchVizAssets/Assets/Textures/T_COG_Foliage_Leaves_N.uasset" 395
+"../../../../../../Users/Liam Kujawski/Desktop/VR/MyProject-20210519T221455Z-001/MyProject/Content/ArchVizAssets/Assets/Textures/T_COG_Foliage_Leaves_D.uasset" 396
+"../../../../../../Users/Liam Kujawski/Desktop/VR/MyProject-20210519T221455Z-001/MyProject/Content/ArchVizAssets/Assets/Textures/T_COG_Foliage_Leaves_AO.uasset" 397
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Shading/FuzzyShading.uasset" 398
+"../../../../../../Users/Liam Kujawski/Desktop/VR/MyProject-20210519T221455Z-001/MyProject/Content/ArchVizAssets/Assets/Materials/M_Tree_Branches.uasset" 399
+"../../../../../../Users/Liam Kujawski/Desktop/VR/MyProject-20210519T221455Z-001/MyProject/Content/ArchVizAssets/Assets/Textures/T_Bark01_N.uasset" 400
+"../../../../../../Users/Liam Kujawski/Desktop/VR/MyProject-20210519T221455Z-001/MyProject/Content/ArchVizAssets/Assets/Textures/T_Bark01_D.uasset" 401
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Shading/PowerToRoughness.uasset" 402
+"../../../../../../Users/Liam Kujawski/Desktop/VR/MyProject-20210519T221455Z-001/MyProject/Content/ArchVizAssets/Assets/Materials/M_TreeTrunk01.uasset" 403
+"../../../../../../Users/Liam Kujawski/Desktop/VR/MyProject-20210519T221455Z-001/MyProject/Content/ArchVizAssets/Assets/Meshes/S_BuildingSetA_Tree_02.uasset" 404
+"../../../Engine/Content/MapTemplates/T_UDK_Sky_CloudMask03.uasset" 405
+"../../../../../../Users/Liam Kujawski/Desktop/VR/MyProject-20210519T221455Z-001/MyProject/Content/ArchVizAssets/Assets/Materials/M_Sky_Clouds.uasset" 406
+"../../../../../../Users/Liam Kujawski/Desktop/VR/MyProject-20210519T221455Z-001/MyProject/Content/ArchVizAssets/Assets/Materials/M_Sky_Clouds_Inst.uasset" 407
+"../../../../../../Users/Liam Kujawski/Desktop/VR/MyProject-20210519T221455Z-001/MyProject/Content/ArchVizAssets/Assets/Textures/T_TilingNoise02_M.uasset" 408
+"../../../../../../Users/Liam Kujawski/Desktop/VR/MyProject-20210519T221455Z-001/MyProject/Content/ArchVizAssets/Assets/Materials/M_Security_Camera_Viewcone.uasset" 409
+"../../../../../../Users/Liam Kujawski/Desktop/VR/MyProject-20210519T221455Z-001/MyProject/Content/ArchVizAssets/Assets/Textures/T_Security_Camera_Base_M.uasset" 410
+"../../../../../../Users/Liam Kujawski/Desktop/VR/MyProject-20210519T221455Z-001/MyProject/Content/ArchVizAssets/Assets/Textures/T_Metal_Metal03_N.uasset" 411
+"../../../../../../Users/Liam Kujawski/Desktop/VR/MyProject-20210519T221455Z-001/MyProject/Content/ArchVizAssets/Assets/Textures/T_Metal_Metal03_D.uasset" 412
+"../../../../../../Users/Liam Kujawski/Desktop/VR/MyProject-20210519T221455Z-001/MyProject/Content/ArchVizAssets/Assets/Materials/ML_COG_Shiny_Grey_1.uasset" 413
+"../../../../../../Users/Liam Kujawski/Desktop/VR/MyProject-20210519T221455Z-001/MyProject/Content/ArchVizAssets/Assets/Materials/ML_BlueMetal_Painted.uasset" 414
+"../../../Engine/Content/Functions/MaterialLayerFunctions/MatLayerBlend_Tint.uasset" 415
+"../../../../../../Users/Liam Kujawski/Desktop/VR/MyProject-20210519T221455Z-001/MyProject/Content/ArchVizAssets/Assets/Materials/M_Security_Camera_Master.uasset" 416
+"../../../../../../Users/Liam Kujawski/Desktop/VR/MyProject-20210519T221455Z-001/MyProject/Content/ArchVizAssets/Assets/Materials/M_Security_Camera_Alarm_Flashing_Inst.uasset" 417
+"../../../../../../Users/Liam Kujawski/Desktop/VR/MyProject-20210519T221455Z-001/MyProject/Content/ArchVizAssets/Assets/Textures/TRT_SecurityCamera_A.uasset" 418
+"../../../../../../Users/Liam Kujawski/Desktop/VR/MyProject-20210519T221455Z-001/MyProject/Content/ArchVizAssets/Assets/Textures/T_Security_Camera_Screen_Overlay_M.uasset" 419
+"../../../../../../Users/Liam Kujawski/Desktop/VR/MyProject-20210519T221455Z-001/MyProject/Content/ArchVizAssets/Assets/Textures/T_PlantBark_D.uasset" 420
+"../../../../../../Users/Liam Kujawski/Desktop/VR/MyProject-20210519T221455Z-001/MyProject/Content/ArchVizAssets/Assets/Materials/ML_Metal_Dark.uasset" 421
+"../../../../../../Users/Liam Kujawski/Desktop/VR/MyProject-20210519T221455Z-001/MyProject/Content/ArchVizAssets/Assets/Materials/M_Plain_Metal.uasset" 422
+"../../../../../../Users/Liam Kujawski/Desktop/VR/MyProject-20210519T221455Z-001/MyProject/Content/ArchVizAssets/Assets/Textures/T_CleanGrass_N.uasset" 423
+"../../../../../../Users/Liam Kujawski/Desktop/VR/MyProject-20210519T221455Z-001/MyProject/Content/ArchVizAssets/Assets/Textures/T_CleanGrass_D.uasset" 424
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/ImageAdjustment/SCurve.uasset" 425
+"../../../../../../Users/Liam Kujawski/Desktop/VR/MyProject-20210519T221455Z-001/MyProject/Content/ArchVizAssets/Assets/Materials/M_GrassMaster.uasset" 426
+"../../../../../../Users/Liam Kujawski/Desktop/VR/MyProject-20210519T221455Z-001/MyProject/Content/ArchVizAssets/Assets/Materials/M_Grass_Darker_Inst.uasset" 427
+"../../../../../../Users/Liam Kujawski/Desktop/VR/MyProject-20210519T221455Z-001/MyProject/Content/ArchVizAssets/Assets/Textures/T_GrassBlade_D.uasset" 428
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/TangentBasis.uasset" 429
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Math/Transform3x3Matrix.uasset" 430
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Math/CreateThirdOrthogonalVector.uasset" 431
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/WorldPositionOffset/SplineThicken.uasset" 432
+"../../../../../../Users/Liam Kujawski/Desktop/VR/MyProject-20210519T221455Z-001/MyProject/Content/ArchVizAssets/Assets/Materials/M_Grass_Blades.uasset" 433
+"../../../../../../Users/Liam Kujawski/Desktop/VR/MyProject-20210519T221455Z-001/MyProject/Content/ArchVizAssets/Assets/Materials/M_Grass_Blades_INST.uasset" 434
+"../../../../../../Users/Liam Kujawski/Desktop/VR/MyProject-20210519T221455Z-001/MyProject/Content/ArchVizAssets/Assets/Meshes/SM_256_Grass_Clean.uasset" 435
+"../../../../../../Users/Liam Kujawski/Desktop/VR/MyProject-20210519T221455Z-001/MyProject/Content/ArchVizAssets/Assets/Textures/TRT_SecurityCamera_C.uasset" 436
+"../../../../../../Users/Liam Kujawski/Desktop/VR/MyProject-20210519T221455Z-001/MyProject/Content/ArchVizAssets/Assets/Textures/TRT_SecurityCamera_B.uasset" 437
+"../../../../../../Users/Liam Kujawski/Desktop/VR/MyProject-20210519T221455Z-001/MyProject/Content/ArchVizAssets/Assets/Meshes/S_Underground_Floor_2.uasset" 438
+"../../../../../../Users/Liam Kujawski/Desktop/VR/MyProject-20210519T221455Z-001/MyProject/Content/ArchVizAssets/Assets/Meshes/S_Scattered_Leaves.uasset" 439
+"../../../../../../Users/Liam Kujawski/Desktop/VR/MyProject-20210519T221455Z-001/MyProject/Content/ArchVizAssets/Assets/Meshes/S_Metal_Stair_Rail_8.uasset" 440
+"../../../../../../Users/Liam Kujawski/Desktop/VR/MyProject-20210519T221455Z-001/MyProject/Content/ArchVizAssets/Assets/Meshes/S_Metal_Stair_Rail_6.uasset" 441
+"../../../../../../Users/Liam Kujawski/Desktop/VR/MyProject-20210519T221455Z-001/MyProject/Content/ArchVizAssets/Assets/Meshes/S_Metal_Stair_Rail_2.uasset" 442
+"../../../../../../Users/Liam Kujawski/Desktop/VR/MyProject-20210519T221455Z-001/MyProject/Content/ArchVizAssets/Assets/Meshes/S_Metal_Stair_Rail_1_Cap_2.uasset" 443
+"../../../../../../Users/Liam Kujawski/Desktop/VR/MyProject-20210519T221455Z-001/MyProject/Content/ArchVizAssets/Assets/Meshes/S_Metal_Stair_Rail_1.uasset" 444
+"../../../../../../Users/Liam Kujawski/Desktop/VR/MyProject-20210519T221455Z-001/MyProject/Content/ArchVizAssets/Assets/Textures/T_Tech_Step_1_N.uasset" 445
+"../../../../../../Users/Liam Kujawski/Desktop/VR/MyProject-20210519T221455Z-001/MyProject/Content/ArchVizAssets/Assets/Textures/T_Tech_Step_1_M.uasset" 446
+"../../../../../../Users/Liam Kujawski/Desktop/VR/MyProject-20210519T221455Z-001/MyProject/Content/ArchVizAssets/Assets/Materials/ML_YellowMetal_Painted.uasset" 447
+"../../../../../../Users/Liam Kujawski/Desktop/VR/MyProject-20210519T221455Z-001/MyProject/Content/ArchVizAssets/Assets/Materials/ML_COG_Dull_Grey_1.uasset" 448
+"../../../Engine/Content/Functions/MaterialLayerFunctions/MatLayerBlend_BakedNormal.uasset" 449
+"../../../../../../Users/Liam Kujawski/Desktop/VR/MyProject-20210519T221455Z-001/MyProject/Content/ArchVizAssets/Assets/Materials/M_Tech_Stair_1.uasset" 450
+"../../../../../../Users/Liam Kujawski/Desktop/VR/MyProject-20210519T221455Z-001/MyProject/Content/ArchVizAssets/Assets/Meshes/S_Metal_Stair_1.uasset" 451
+"../../../../../../Users/Liam Kujawski/Desktop/VR/MyProject-20210519T221455Z-001/MyProject/Content/ArchVizAssets/Assets/Textures/T_COG_BuildingSetA_Door_N.uasset" 452
+"../../../../../../Users/Liam Kujawski/Desktop/VR/MyProject-20210519T221455Z-001/MyProject/Content/ArchVizAssets/Assets/Textures/T_COG_BuildingSetA_Door_M.uasset" 453
+"../../../Engine/Content/Functions/MaterialLayerFunctions/MatLayerBlend_AO.uasset" 454
+"../../../../../../Users/Liam Kujawski/Desktop/VR/MyProject-20210519T221455Z-001/MyProject/Content/ArchVizAssets/Assets/Materials/M_COG_BuidingSetA_Door.uasset" 455
+"../../../../../../Users/Liam Kujawski/Desktop/VR/MyProject-20210519T221455Z-001/MyProject/Content/ArchVizAssets/Assets/Meshes/S_MetalPillar_4.uasset" 456
+"../../../../../../Users/Liam Kujawski/Desktop/VR/MyProject-20210519T221455Z-001/MyProject/Content/ArchVizAssets/Assets/Meshes/S_MetalPillar_2_c.uasset" 457
+"../../../../../../Users/Liam Kujawski/Desktop/VR/MyProject-20210519T221455Z-001/MyProject/Content/ArchVizAssets/Assets/Meshes/S_MetalPillar_2.uasset" 458
+"../../../../../../Users/Liam Kujawski/Desktop/VR/MyProject-20210519T221455Z-001/MyProject/Content/ArchVizAssets/Assets/Textures/T_Keyhole_Signs01_D.uasset" 459
+"../../../../../../Users/Liam Kujawski/Desktop/VR/MyProject-20210519T221455Z-001/MyProject/Content/ArchVizAssets/Assets/Materials/M_Keyhole_Deco_Signs.uasset" 460
+"../../../../../../Users/Liam Kujawski/Desktop/VR/MyProject-20210519T221455Z-001/MyProject/Content/ArchVizAssets/Assets/Meshes/S_Keyhole_Deco_Sign_NoEntrySM.uasset" 461
+"../../../../../../Users/Liam Kujawski/Desktop/VR/MyProject-20210519T221455Z-001/MyProject/Content/ArchVizAssets/Assets/Meshes/S_Keyhole_Deco_Sign_NoEntry.uasset" 462
+"../../../../../../Users/Liam Kujawski/Desktop/VR/MyProject-20210519T221455Z-001/MyProject/Content/ArchVizAssets/Assets/Meshes/S_Keyhole_Deco_Sign_NoCross.uasset" 463
+"../../../../../../Users/Liam Kujawski/Desktop/VR/MyProject-20210519T221455Z-001/MyProject/Content/ArchVizAssets/Assets/Textures/T_Floor_Tech_2_M.uasset" 464
+"../../../../../../Users/Liam Kujawski/Desktop/VR/MyProject-20210519T221455Z-001/MyProject/Content/ArchVizAssets/Assets/Materials/M_Floor_Tech_1_Edge.uasset" 465
+"../../../../../../Users/Liam Kujawski/Desktop/VR/MyProject-20210519T221455Z-001/MyProject/Content/ArchVizAssets/Assets/Textures/T_COG_Metal_Rust_03_N.uasset" 466
+"../../../../../../Users/Liam Kujawski/Desktop/VR/MyProject-20210519T221455Z-001/MyProject/Content/ArchVizAssets/Assets/Textures/T_COG_Metal_Rust_03_D.uasset" 467
+"../../../../../../Users/Liam Kujawski/Desktop/VR/MyProject-20210519T221455Z-001/MyProject/Content/ArchVizAssets/Assets/Materials/ML_Metal_Rust.uasset" 468
+"../../../../../../Users/Liam Kujawski/Desktop/VR/MyProject-20210519T221455Z-001/MyProject/Content/ArchVizAssets/Assets/Textures/T_Floor_Tech_1_N.uasset" 469
+"../../../../../../Users/Liam Kujawski/Desktop/VR/MyProject-20210519T221455Z-001/MyProject/Content/ArchVizAssets/Assets/Textures/T_Floor_Tech_1_M.uasset" 470
+"../../../../../../Users/Liam Kujawski/Desktop/VR/MyProject-20210519T221455Z-001/MyProject/Content/ArchVizAssets/Assets/Materials/M_Floor_Tech_1.uasset" 471
+"../../../../../../Users/Liam Kujawski/Desktop/VR/MyProject-20210519T221455Z-001/MyProject/Content/ArchVizAssets/Assets/Meshes/S_Floor_Grate_6.uasset" 472
+"../../../../../../Users/Liam Kujawski/Desktop/VR/MyProject-20210519T221455Z-001/MyProject/Content/ArchVizAssets/Assets/Meshes/S_Floor_Grate_5.uasset" 473
+"../../../../../../Users/Liam Kujawski/Desktop/VR/MyProject-20210519T221455Z-001/MyProject/Content/ArchVizAssets/Assets/Meshes/S_Floor_Grate_4.uasset" 474
+"../../../../../../Users/Liam Kujawski/Desktop/VR/MyProject-20210519T221455Z-001/MyProject/Content/ArchVizAssets/Assets/Meshes/S_Floor_Grate_2.uasset" 475
+"../../../../../../Users/Liam Kujawski/Desktop/VR/MyProject-20210519T221455Z-001/MyProject/Content/ArchVizAssets/Assets/Meshes/S_Dirt_Pile.uasset" 476
+"../../../../../../Users/Liam Kujawski/Desktop/VR/MyProject-20210519T221455Z-001/MyProject/Content/ArchVizAssets/Assets/Textures/T_Building_01_N.uasset" 477
+"../../../../../../Users/Liam Kujawski/Desktop/VR/MyProject-20210519T221455Z-001/MyProject/Content/ArchVizAssets/Assets/Textures/T_Building_01_D.uasset" 478
+"../../../../../../Users/Liam Kujawski/Desktop/VR/MyProject-20210519T221455Z-001/MyProject/Content/ArchVizAssets/Assets/Materials/M_Building_01.uasset" 479
+"../../../../../../Users/Liam Kujawski/Desktop/VR/MyProject-20210519T221455Z-001/MyProject/Content/ArchVizAssets/Assets/Meshes/S_Building_01f.uasset" 480
+"../../../../../../Users/Liam Kujawski/Desktop/VR/MyProject-20210519T221455Z-001/MyProject/Content/ArchVizAssets/Assets/Meshes/S_Building_01d.uasset" 481
+"../../../../../../Users/Liam Kujawski/Desktop/VR/MyProject-20210519T221455Z-001/MyProject/Content/ArchVizAssets/Assets/Textures/T_DS360_075_Ref.uasset" 482
+"../../../../../../Users/Liam Kujawski/Desktop/VR/MyProject-20210519T221455Z-001/MyProject/Content/ArchVizAssets/Assets/Materials/M_Environment_Glass_Master.uasset" 483
+"../../../../../../Users/Liam Kujawski/Desktop/VR/MyProject-20210519T221455Z-001/MyProject/Content/ArchVizAssets/Assets/Meshes/S_BuildingSetA_Door_01g_07.uasset" 484
+"../../../../../../Users/Liam Kujawski/Desktop/VR/MyProject-20210519T221455Z-001/MyProject/Content/ArchVizAssets/Assets/Meshes/S_BuildingSetA_Door_01g_06.uasset" 485
+"../../../../../../Users/Liam Kujawski/Desktop/VR/MyProject-20210519T221455Z-001/MyProject/Content/ArchVizAssets/Assets/Meshes/S_BuildingSetA_Door_01f_05.uasset" 486
+"../../../../../../Users/Liam Kujawski/Desktop/VR/MyProject-20210519T221455Z-001/MyProject/Content/ArchVizAssets/Assets/Meshes/S_BuildingSetA_Door_01f_02c.uasset" 487
+"../../../../../../Users/Liam Kujawski/Desktop/VR/MyProject-20210519T221455Z-001/MyProject/Content/ArchVizAssets/Assets/Meshes/S_BuildingSetA_Building_02b_05.uasset" 488
+"../../../../../../Users/Liam Kujawski/Desktop/VR/MyProject-20210519T221455Z-001/MyProject/Content/ArchVizAssets/Assets/Textures/T_COG_City_AboveGround_Railing_N.uasset" 489
+"../../../../../../Users/Liam Kujawski/Desktop/VR/MyProject-20210519T221455Z-001/MyProject/Content/ArchVizAssets/Assets/Textures/T_COG_City_AboveGround_Railing_D.uasset" 490
+"../../../Engine/Content/Functions/MaterialLayerFunctions/MatLayerBlend_Simple.uasset" 491
+"../../../../../../Users/Liam Kujawski/Desktop/VR/MyProject-20210519T221455Z-001/MyProject/Content/ArchVizAssets/Assets/Materials/M_Railing.uasset" 492
+"../../../../../../Users/Liam Kujawski/Desktop/VR/MyProject-20210519T221455Z-001/MyProject/Content/ArchVizAssets/Assets/Meshes/S_BuildingSetA_Building_01e.uasset" 493
+"../../../../../../Users/Liam Kujawski/Desktop/VR/MyProject-20210519T221455Z-001/MyProject/Content/ArchVizAssets/Assets/Meshes/SM_WallArch_Support_Top.uasset" 494
+"../../../../../../Users/Liam Kujawski/Desktop/VR/MyProject-20210519T221455Z-001/MyProject/Content/ArchVizAssets/Assets/Meshes/SM_WallArch_Support_Slope.uasset" 495
+"../../../../../../Users/Liam Kujawski/Desktop/VR/MyProject-20210519T221455Z-001/MyProject/Content/ArchVizAssets/Assets/Meshes/SM_WallArch_Support_Extruded.uasset" 496
+"../../../../../../Users/Liam Kujawski/Desktop/VR/MyProject-20210519T221455Z-001/MyProject/Content/ArchVizAssets/Assets/Textures/T_Underground_Clamp04_N.uasset" 497
+"../../../../../../Users/Liam Kujawski/Desktop/VR/MyProject-20210519T221455Z-001/MyProject/Content/ArchVizAssets/Assets/Textures/T_Underground_Clamp04_M.uasset" 498
+"../../../../../../Users/Liam Kujawski/Desktop/VR/MyProject-20210519T221455Z-001/MyProject/Content/ArchVizAssets/Assets/Materials/M_COG_Underground_Pipe_Clamps_04.uasset" 499
+"../../../../../../Users/Liam Kujawski/Desktop/VR/MyProject-20210519T221455Z-001/MyProject/Content/ArchVizAssets/Assets/Meshes/SM_Underground_Pipe_Clamp04.uasset" 500
+"../../../../../../Users/Liam Kujawski/Desktop/VR/MyProject-20210519T221455Z-001/MyProject/Content/ArchVizAssets/Assets/Textures/T_Underground_PipeCap_N.uasset" 501
+"../../../../../../Users/Liam Kujawski/Desktop/VR/MyProject-20210519T221455Z-001/MyProject/Content/ArchVizAssets/Assets/Textures/T_Underground_PipeCap_M.uasset" 502
+"../../../../../../Users/Liam Kujawski/Desktop/VR/MyProject-20210519T221455Z-001/MyProject/Content/ArchVizAssets/Assets/Materials/M_COG_Underground_Pipecap_Yellow.uasset" 503
+"../../../../../../Users/Liam Kujawski/Desktop/VR/MyProject-20210519T221455Z-001/MyProject/Content/ArchVizAssets/Assets/Meshes/SM_Underground_Pipe_Bracket01_WallMount02.uasset" 504
+"../../../../../../Users/Liam Kujawski/Desktop/VR/MyProject-20210519T221455Z-001/MyProject/Content/ArchVizAssets/Assets/Meshes/SM_Underground_Pipe_Bracket01_WallMount.uasset" 505
+"../../../../../../Users/Liam Kujawski/Desktop/VR/MyProject-20210519T221455Z-001/MyProject/Content/ArchVizAssets/Assets/Textures/T_PlantSoil_N.uasset" 506
+"../../../../../../Users/Liam Kujawski/Desktop/VR/MyProject-20210519T221455Z-001/MyProject/Content/ArchVizAssets/Assets/Textures/T_PlantSoil_D.uasset" 507
+"../../../../../../Users/Liam Kujawski/Desktop/VR/MyProject-20210519T221455Z-001/MyProject/Content/ArchVizAssets/Assets/Textures/T_PlantPot_N.uasset" 508
+"../../../../../../Users/Liam Kujawski/Desktop/VR/MyProject-20210519T221455Z-001/MyProject/Content/ArchVizAssets/Assets/Textures/T_PlantPot_M.uasset" 509
+"../../../../../../Users/Liam Kujawski/Desktop/VR/MyProject-20210519T221455Z-001/MyProject/Content/ArchVizAssets/Assets/Materials/M_PlantPot_Mat.uasset" 510
+"../../../../../../Users/Liam Kujawski/Desktop/VR/MyProject-20210519T221455Z-001/MyProject/Content/ArchVizAssets/Assets/Textures/T_PlantLeaf_N.uasset" 511
+"../../../../../../Users/Liam Kujawski/Desktop/VR/MyProject-20210519T221455Z-001/MyProject/Content/ArchVizAssets/Assets/Textures/T_PlantLeaf_M.uasset" 512
+"../../../../../../Users/Liam Kujawski/Desktop/VR/MyProject-20210519T221455Z-001/MyProject/Content/ArchVizAssets/Assets/Textures/T_PlantLeaf_D.uasset" 513
+"../../../../../../Users/Liam Kujawski/Desktop/VR/MyProject-20210519T221455Z-001/MyProject/Content/ArchVizAssets/Assets/Materials/M_PlantLeaf_Mat.uasset" 514
+"../../../../../../Users/Liam Kujawski/Desktop/VR/MyProject-20210519T221455Z-001/MyProject/Content/ArchVizAssets/Assets/Materials/M_PlantLeaf_Mat_Inst.uasset" 515
+"../../../../../../Users/Liam Kujawski/Desktop/VR/MyProject-20210519T221455Z-001/MyProject/Content/ArchVizAssets/Assets/Materials/M_PlantBark_Mat.uasset" 516
+"../../../../../../Users/Liam Kujawski/Desktop/VR/MyProject-20210519T221455Z-001/MyProject/Content/ArchVizAssets/Assets/Materials/M_PlantBark_Mat_Inst.uasset" 517
+"../../../../../../Users/Liam Kujawski/Desktop/VR/MyProject-20210519T221455Z-001/MyProject/Content/ArchVizAssets/Assets/Meshes/SM_Plant.uasset" 518
+"../../../../../../Users/Liam Kujawski/Desktop/VR/MyProject-20210519T221455Z-001/MyProject/Content/ArchVizAssets/Assets/Textures/T_Underground_Pipe_Valves_02_N.uasset" 519
+"../../../../../../Users/Liam Kujawski/Desktop/VR/MyProject-20210519T221455Z-001/MyProject/Content/ArchVizAssets/Assets/Textures/T_Underground_Pipe_Valves_02_M.uasset" 520
+"../../../../../../Users/Liam Kujawski/Desktop/VR/MyProject-20210519T221455Z-001/MyProject/Content/ArchVizAssets/Assets/Materials/M_COG_Underground_Pipe_Valves_02.uasset" 521
+"../../../../../../Users/Liam Kujawski/Desktop/VR/MyProject-20210519T221455Z-001/MyProject/Content/ArchVizAssets/Assets/Textures/T_Underground_Pipe_Valves_01_N.uasset" 522
+"../../../../../../Users/Liam Kujawski/Desktop/VR/MyProject-20210519T221455Z-001/MyProject/Content/ArchVizAssets/Assets/Textures/T_Underground_Pipe_Valves_01_M.uasset" 523
+"../../../../../../Users/Liam Kujawski/Desktop/VR/MyProject-20210519T221455Z-001/MyProject/Content/ArchVizAssets/Assets/Materials/M_COG_Underground_Pipe_Valves_01.uasset" 524
+"../../../../../../Users/Liam Kujawski/Desktop/VR/MyProject-20210519T221455Z-001/MyProject/Content/ArchVizAssets/Assets/Materials/M_COG_Underground_Pipe_Tjunction_Painted.uasset" 525
+"../../../../../../Users/Liam Kujawski/Desktop/VR/MyProject-20210519T221455Z-001/MyProject/Content/ArchVizAssets/Assets/Meshes/SM_COG_Underground_Pipe_Valve_Whole.uasset" 526
+"../../../../../../Users/Liam Kujawski/Desktop/VR/MyProject-20210519T221455Z-001/MyProject/Content/ArchVizAssets/Assets/Meshes/SM_COG_Underground_Pipe_Valve_TJunction.uasset" 527
+"../../../../../../Users/Liam Kujawski/Desktop/VR/MyProject-20210519T221455Z-001/MyProject/Content/ArchVizAssets/Assets/Meshes/SM_COG_Underground_Pipe_Valve_FrontSection.uasset" 528
+"../../../../../../Users/Liam Kujawski/Desktop/VR/MyProject-20210519T221455Z-001/MyProject/Content/ArchVizAssets/Assets/Meshes/SM_Cog_Underground_PipeCap_Top.uasset" 529
+"../../../../../../Users/Liam Kujawski/Desktop/VR/MyProject-20210519T221455Z-001/MyProject/Content/ArchVizAssets/Assets/Textures/T_Underground_Clamps01_M.uasset" 530
+"../../../../../../Users/Liam Kujawski/Desktop/VR/MyProject-20210519T221455Z-001/MyProject/Content/ArchVizAssets/Assets/Materials/M_COG_Underground_Base_Pipe.uasset" 531
+"../../../../../../Users/Liam Kujawski/Desktop/VR/MyProject-20210519T221455Z-001/MyProject/Content/ArchVizAssets/Assets/Meshes/SM_Cog_Underground_Pipe01_200_Bent_S.uasset" 532
+"../../../../../../Users/Liam Kujawski/Desktop/VR/MyProject-20210519T221455Z-001/MyProject/Content/ArchVizAssets/Assets/Meshes/SM_Cog_Underground_Pipe01_200.uasset" 533
+"../../../../../../Users/Liam Kujawski/Desktop/VR/MyProject-20210519T221455Z-001/MyProject/Content/ArchVizAssets/Assets/Meshes/SM_Cog_Underground_Pipe01_100_Bent_90Tight.uasset" 534
+"../../../../../../Users/Liam Kujawski/Desktop/VR/MyProject-20210519T221455Z-001/MyProject/Content/ArchVizAssets/Assets/Meshes/SM_Cog_Underground_Pipe01_100_Bent_90.uasset" 535
+"../../../../../../Users/Liam Kujawski/Desktop/VR/MyProject-20210519T221455Z-001/MyProject/Content/ArchVizAssets/Assets/Meshes/SM_Cog_Underground_Pipe01_100.uasset" 536
+"../../../../../../Users/Liam Kujawski/Desktop/VR/MyProject-20210519T221455Z-001/MyProject/Content/ArchVizAssets/Assets/Textures/T_COG_Underground_Console_Panel_Bits_N.uasset" 537
+"../../../../../../Users/Liam Kujawski/Desktop/VR/MyProject-20210519T221455Z-001/MyProject/Content/ArchVizAssets/Assets/Textures/T_COG_Underground_Console_Panel_Bits_M.uasset" 538
+"../../../../../../Users/Liam Kujawski/Desktop/VR/MyProject-20210519T221455Z-001/MyProject/Content/ArchVizAssets/Assets/Materials/M_COG_Underground_Console_Panel_Bits.uasset" 539
+"../../../../../../Users/Liam Kujawski/Desktop/VR/MyProject-20210519T221455Z-001/MyProject/Content/ArchVizAssets/Assets/Textures/T_COG_Underground_Console_Panel_N.uasset" 540
+"../../../../../../Users/Liam Kujawski/Desktop/VR/MyProject-20210519T221455Z-001/MyProject/Content/ArchVizAssets/Assets/Textures/T_COG_Underground_Console_Panel_M.uasset" 541
+"../../../../../../Users/Liam Kujawski/Desktop/VR/MyProject-20210519T221455Z-001/MyProject/Content/ArchVizAssets/Assets/Textures/T_COG_Underground_Console_Panel_E.uasset" 542
+"../../../../../../Users/Liam Kujawski/Desktop/VR/MyProject-20210519T221455Z-001/MyProject/Content/ArchVizAssets/Assets/Textures/T_COG_Underground_Console_Panel_Decals.uasset" 543
+"../../../Engine/Content/Functions/MaterialLayerFunctions/MatLayerBlend_Decal_UV3.uasset" 544
+"../../../../../../Users/Liam Kujawski/Desktop/VR/MyProject-20210519T221455Z-001/MyProject/Content/ArchVizAssets/Assets/Materials/M_COG_Underground_Console_Panel.uasset" 545
+"../../../../../../Users/Liam Kujawski/Desktop/VR/MyProject-20210519T221455Z-001/MyProject/Content/ArchVizAssets/Assets/Meshes/SM_Cog_Underground_Console_Panel_NoButton.uasset" 546
+"../../../../../../Users/Liam Kujawski/Desktop/VR/MyProject-20210519T221455Z-001/MyProject/Content/ArchVizAssets/Assets/Meshes/SM_Cog_Tunnel_Wires_Twisted_1_500.uasset" 547
+"../../../../../../Users/Liam Kujawski/Desktop/VR/MyProject-20210519T221455Z-001/MyProject/Content/ArchVizAssets/Assets/Textures/T_Underground_Ceiling_Pipes_N.uasset" 548
+"../../../../../../Users/Liam Kujawski/Desktop/VR/MyProject-20210519T221455Z-001/MyProject/Content/ArchVizAssets/Assets/Textures/T_Underground_Ceiling_Pipes_M.uasset" 549
+"../../../../../../Users/Liam Kujawski/Desktop/VR/MyProject-20210519T221455Z-001/MyProject/Content/ArchVizAssets/Assets/Materials/M_COG_Underground_Ceiling_Pipes.uasset" 550
+"../../../../../../Users/Liam Kujawski/Desktop/VR/MyProject-20210519T221455Z-001/MyProject/Content/ArchVizAssets/Assets/Meshes/SM_Cog_Tunnel_Ceiling_Pipes_Bracket_02Single.uasset" 551
+"../../../../../../Users/Liam Kujawski/Desktop/VR/MyProject-20210519T221455Z-001/MyProject/Content/ArchVizAssets/Assets/Meshes/SM_Cog_Tunnel_Ceiling_Pipes_Bracket_02Double.uasset" 552
+"../../../../../../Users/Liam Kujawski/Desktop/VR/MyProject-20210519T221455Z-001/MyProject/Content/ArchVizAssets/Assets/Meshes/SM_Cog_Tunnel_Ceiling_Pipes_Bracket_01.uasset" 553
+"../../../../../../Users/Liam Kujawski/Desktop/VR/MyProject-20210519T221455Z-001/MyProject/Content/ArchVizAssets/Assets/Meshes/SM_Cog_Tunnel_Ceiling_Pipes_3x1000.uasset" 554
+"../../../../../../Users/Liam Kujawski/Desktop/VR/MyProject-20210519T221455Z-001/MyProject/Content/ArchVizAssets/Assets/Meshes/SM_Cog_Tunnel_Ceiling_Pipes_2x1000.uasset" 555
+"../../../../../../Users/Liam Kujawski/Desktop/VR/MyProject-20210519T221455Z-001/MyProject/Content/ArchVizAssets/Assets/Meshes/SM_Cog_Tunnel_Ceiling_Pipes_1x1000.uasset" 556
+"../../../../../../Users/Liam Kujawski/Desktop/VR/MyProject-20210519T221455Z-001/MyProject/Content/ArchVizAssets/Assets/Materials/M_Concrete_Plain.uasset" 557
+"../../../../../../Users/Liam Kujawski/Desktop/VR/MyProject-20210519T221455Z-001/MyProject/Content/ArchVizAssets/Assets/Meshes/SM_COG_Justice_Floor_Infra_01.uasset" 558
+"../../../../../../Users/Liam Kujawski/Desktop/VR/MyProject-20210519T221455Z-001/MyProject/Content/ArchVizAssets/Assets/Textures/T_WoodFloor_N.uasset" 559
+"../../../../../../Users/Liam Kujawski/Desktop/VR/MyProject-20210519T221455Z-001/MyProject/Content/ArchVizAssets/Assets/Textures/T_WoodFloor_AO.uasset" 560
+"../../../../../../Users/Liam Kujawski/Desktop/VR/MyProject-20210519T221455Z-001/MyProject/Content/ArchVizAssets/Assets/Textures/T_Wood_S.uasset" 561
+"../../../../../../Users/Liam Kujawski/Desktop/VR/MyProject-20210519T221455Z-001/MyProject/Content/ArchVizAssets/Assets/Textures/T_Wood_D.uasset" 562
+"../../../../../../Users/Liam Kujawski/Desktop/VR/MyProject-20210519T221455Z-001/MyProject/Content/ArchVizAssets/Assets/Textures/T_DustnScratches_N.uasset" 563
+"../../../../../../Users/Liam Kujawski/Desktop/VR/MyProject-20210519T221455Z-001/MyProject/Content/ArchVizAssets/Assets/Textures/T_DustnScratches_M.uasset" 564
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/Swizzle.uasset" 565
+"../../../../../../Users/Liam Kujawski/Desktop/VR/MyProject-20210519T221455Z-001/MyProject/Content/ArchVizAssets/Assets/Materials/M_Wood_Floor.uasset" 566
+"../../../../../../Users/Liam Kujawski/Desktop/VR/MyProject-20210519T221455Z-001/MyProject/Content/ArchVizAssets/Assets/Textures/T_COG_City_Justice_Floor_Trims_N.uasset" 567
+"../../../../../../Users/Liam Kujawski/Desktop/VR/MyProject-20210519T221455Z-001/MyProject/Content/ArchVizAssets/Assets/Textures/T_COG_City_Justice_Floor_Trims_M.uasset" 568
+"../../../../../../Users/Liam Kujawski/Desktop/VR/MyProject-20210519T221455Z-001/MyProject/Content/ArchVizAssets/Assets/Materials/M_COG_City_Justice_Trims.uasset" 569
+"../../../../../../Users/Liam Kujawski/Desktop/VR/MyProject-20210519T221455Z-001/MyProject/Content/ArchVizAssets/Assets/Meshes/SM_COG_Demo_Theatre_Floor_Whole.uasset" 570
+"../../../../../../Users/Liam Kujawski/Desktop/VR/MyProject-20210519T221455Z-001/MyProject/Content/ArchVizAssets/Assets/Textures/T_COG_City_Roof_Trim_Var1_AO.uasset" 571
+"../../../../../../Users/Liam Kujawski/Desktop/VR/MyProject-20210519T221455Z-001/MyProject/Content/ArchVizAssets/Assets/Materials/M_COG_City_Roof_Trim_Var1.uasset" 572
+"../../../../../../Users/Liam Kujawski/Desktop/VR/MyProject-20210519T221455Z-001/MyProject/Content/ArchVizAssets/Assets/Meshes/SM_COG_City_Roof_Trim_VarA_Bent_45.uasset" 573
+"../../../../../../Users/Liam Kujawski/Desktop/VR/MyProject-20210519T221455Z-001/MyProject/Content/ArchVizAssets/Assets/Textures/T_COG_City_JusticePlinths_N.uasset" 574
+"../../../../../../Users/Liam Kujawski/Desktop/VR/MyProject-20210519T221455Z-001/MyProject/Content/ArchVizAssets/Assets/Textures/T_COG_City_JusticePlinths_M.uasset" 575
+"../../../../../../Users/Liam Kujawski/Desktop/VR/MyProject-20210519T221455Z-001/MyProject/Content/ArchVizAssets/Assets/Materials/M_COG_City_Justice_Plinths_2.uasset" 576
+"../../../../../../Users/Liam Kujawski/Desktop/VR/MyProject-20210519T221455Z-001/MyProject/Content/ArchVizAssets/Assets/Textures/T_COG_City_WhiteMarble01_N.uasset" 577
+"../../../../../../Users/Liam Kujawski/Desktop/VR/MyProject-20210519T221455Z-001/MyProject/Content/ArchVizAssets/Assets/Textures/T_COG_City_WhiteMarble01_D.uasset" 578
+"../../../../../../Users/Liam Kujawski/Desktop/VR/MyProject-20210519T221455Z-001/MyProject/Content/ArchVizAssets/Assets/Materials/ML_COG_Marble01.uasset" 579
+"../../../../../../Users/Liam Kujawski/Desktop/VR/MyProject-20210519T221455Z-001/MyProject/Content/ArchVizAssets/Assets/Materials/M_COG_Courthouse_MarbleFloor_2.uasset" 580
+"../../../../../../Users/Liam Kujawski/Desktop/VR/MyProject-20210519T221455Z-001/MyProject/Content/ArchVizAssets/Assets/Meshes/SM_COG_City_JusticePlinth2.uasset" 581
+"../../../../../../Users/Liam Kujawski/Desktop/VR/MyProject-20210519T221455Z-001/MyProject/Content/ArchVizAssets/Assets/Textures/T_COG_City_Decos_Bench_N.uasset" 582
+"../../../../../../Users/Liam Kujawski/Desktop/VR/MyProject-20210519T221455Z-001/MyProject/Content/ArchVizAssets/Assets/Textures/T_COG_City_Decos_Bench_M.uasset" 583
+"../../../../../../Users/Liam Kujawski/Desktop/VR/MyProject-20210519T221455Z-001/MyProject/Content/ArchVizAssets/Assets/Materials/M_COG_City_Deco_Bench.uasset" 584
+"../../../../../../Users/Liam Kujawski/Desktop/VR/MyProject-20210519T221455Z-001/MyProject/Content/ArchVizAssets/Assets/Meshes/SM_COG_City_Decos_Bench.uasset" 585
+"../../../../../../Users/Liam Kujawski/Desktop/VR/MyProject-20210519T221455Z-001/MyProject/Content/ArchVizAssets/Assets/Textures/T_Background_D.uasset" 586
+"../../../../../../Users/Liam Kujawski/Desktop/VR/MyProject-20210519T221455Z-001/MyProject/Content/ArchVizAssets/Assets/Materials/M_Background_Mat.uasset" 587
+"../../../../../../Users/Liam Kujawski/Desktop/VR/MyProject-20210519T221455Z-001/MyProject/Content/ArchVizAssets/Assets/Meshes/SM_Background.uasset" 588
+"../../../../../../Users/Liam Kujawski/Desktop/VR/MyProject-20210519T221455Z-001/MyProject/Content/ArchVizAssets/Assets/Meshes/EditorPlane.uasset" 589
+"../../../../../../Users/Liam Kujawski/Desktop/VR/MyProject-20210519T221455Z-001/MyProject/Content/ArchVizAssets/Assets/Materials/M_Wood_Floor_Scaled_Inst.uasset" 590
+"../../../../../../Users/Liam Kujawski/Desktop/VR/MyProject-20210519T221455Z-001/MyProject/Content/ArchVizAssets/Assets/Textures/T_Effect_Ring.uasset" 591
+"../../../../../../Users/Liam Kujawski/Desktop/VR/MyProject-20210519T221455Z-001/MyProject/Content/ArchVizAssets/Assets/Textures/T_Butterfly_Wing_M.uasset" 592
+"../../../../../../Users/Liam Kujawski/Desktop/VR/MyProject-20210519T221455Z-001/MyProject/Content/ArchVizAssets/Assets/Textures/T_Butterfly_Holographic_M.uasset" 593
+"../../../../../../Users/Liam Kujawski/Desktop/VR/MyProject-20210519T221455Z-001/MyProject/Content/ArchVizAssets/Assets/Textures/T_Butterfly_M.uasset" 594
+"../../../../../../Users/Liam Kujawski/Desktop/VR/MyProject-20210519T221455Z-001/MyProject/Content/ArchVizAssets/Assets/Materials/M_Butterfly_wing.uasset" 595
+"../../../../../../Users/Liam Kujawski/Desktop/VR/MyProject-20210519T221455Z-001/MyProject/Content/ArchVizAssets/Assets/Textures/T_LargeStone01_N.uasset" 596
+"../../../../../../Users/Liam Kujawski/Desktop/VR/MyProject-20210519T221455Z-001/MyProject/Content/ArchVizAssets/Assets/Textures/T_Boulder01_N.uasset" 597
+"../../../../../../Users/Liam Kujawski/Desktop/VR/MyProject-20210519T221455Z-001/MyProject/Content/ArchVizAssets/Assets/Textures/T_Boulder01_D.uasset" 598
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Texturing/WorldAlignedTexture.uasset" 599
+"../../../../../../Users/Liam Kujawski/Desktop/VR/MyProject-20210519T221455Z-001/MyProject/Content/ArchVizAssets/Assets/Materials/M_Boulder_MASTER.uasset" 600
+"../../../../../../Users/Liam Kujawski/Desktop/VR/MyProject-20210519T221455Z-001/MyProject/Content/ArchVizAssets/Assets/Meshes/SM_Boulder02.uasset" 601
+"../../../../../../Users/Liam Kujawski/Desktop/VR/MyProject-20210519T221455Z-001/MyProject/Content/ArchVizAssets/Assets/Textures/T_Door_Hinged_Metal_M.uasset" 602
+"../../../../../../Users/Liam Kujawski/Desktop/VR/MyProject-20210519T221455Z-001/MyProject/Content/ArchVizAssets/Assets/Materials/M_Door_Hinged_Metal.uasset" 603
+"../../../../../../Users/Liam Kujawski/Desktop/VR/MyProject-20210519T221455Z-001/MyProject/Content/ArchVizAssets/Assets/Meshes/SM_Swing_Door.uasset" 604
+"../../../../../../Users/Liam Kujawski/Desktop/VR/MyProject-20210519T221455Z-001/MyProject/Content/ArchVizAssets/Assets/Blueprints/BPI_Security_Alarm_Interface.uasset" 605
+"../../../../../../Users/Liam Kujawski/Desktop/VR/MyProject-20210519T221455Z-001/MyProject/Content/ArchVizAssets/Assets/Audio/Blueprints_DoorOpen01.uasset" 606
+"../../../../../../Users/Liam Kujawski/Desktop/VR/MyProject-20210519T221455Z-001/MyProject/Content/ArchVizAssets/Assets/Audio/Blueprints_DoorOpen01_Cue.uasset" 607
+"../../../../../../Users/Liam Kujawski/Desktop/VR/MyProject-20210519T221455Z-001/MyProject/Content/ArchVizAssets/Assets/Audio/Blueprints_DoorClose01.uasset" 608
+"../../../../../../Users/Liam Kujawski/Desktop/VR/MyProject-20210519T221455Z-001/MyProject/Content/ArchVizAssets/Assets/Audio/Blueprints_DoorClose01_Cue.uasset" 609
+"../../../../../../Users/Liam Kujawski/Desktop/VR/MyProject-20210519T221455Z-001/MyProject/Content/ArchVizAssets/Assets/Blueprints/BP_Security_Sliding_Door_Default_Open.uasset" 610
+"../../../../../../Users/Liam Kujawski/Desktop/VR/MyProject-20210519T221455Z-001/MyProject/Content/ArchVizAssets/Assets/Meshes/SM_Cog_Underground_Console_Panel_Button_Base01.uasset" 611
+"../../../Engine/Content/EditorBlueprintResources/StandardMacros.uasset" 612
+"../../../../../../Users/Liam Kujawski/Desktop/VR/MyProject-20210519T221455Z-001/MyProject/Content/ArchVizAssets/Assets/Meshes/SM_Cog_Underground_Console_Panel_Button.uasset" 613
+"../../../../../../Users/Liam Kujawski/Desktop/VR/MyProject-20210519T221455Z-001/MyProject/Content/ArchVizAssets/Assets/Materials/M_TextMaterial_Opaque_Emissive.uasset" 614
+"../../../../../../Users/Liam Kujawski/Desktop/VR/MyProject-20210519T221455Z-001/MyProject/Content/ArchVizAssets/Assets/Audio/Blueprints_Interior_Stereo04.uasset" 615
+"../../../../../../Users/Liam Kujawski/Desktop/VR/MyProject-20210519T221455Z-001/MyProject/Content/ArchVizAssets/Assets/Audio/Blueprints_Interior_Stereo03.uasset" 616
+"../../../../../../Users/Liam Kujawski/Desktop/VR/MyProject-20210519T221455Z-001/MyProject/Content/ArchVizAssets/Assets/Audio/Blueprints_Interior_Cue.uasset" 617
+"../../../../../../Users/Liam Kujawski/Desktop/VR/MyProject-20210519T221455Z-001/MyProject/Content/ArchVizAssets/Assets/Audio/Blueprints_Computer_Stereo03.uasset" 618
+"../../../../../../Users/Liam Kujawski/Desktop/VR/MyProject-20210519T221455Z-001/MyProject/Content/ArchVizAssets/Assets/Audio/Blueprints_Computer_Stereo03_Cue.uasset" 619
+"../../../../../../Users/Liam Kujawski/Desktop/VR/MyProject-20210519T221455Z-001/MyProject/Content/ArchVizAssets/Assets/Audio/Blueprints_ButtonPush01.uasset" 620
+"../../../../../../Users/Liam Kujawski/Desktop/VR/MyProject-20210519T221455Z-001/MyProject/Content/ArchVizAssets/Assets/Audio/Blueprints_ButtonLayer01.uasset" 621
+"../../../../../../Users/Liam Kujawski/Desktop/VR/MyProject-20210519T221455Z-001/MyProject/Content/ArchVizAssets/Assets/Audio/Blueprints_ButtonPush01_Cue.uasset" 622
+"../../../../../../Users/Liam Kujawski/Desktop/VR/MyProject-20210519T221455Z-001/MyProject/Content/ArchVizAssets/Assets/Blueprints/BP_Security_Screen_Button.uasset" 623
+"../../../../../../Users/Liam Kujawski/Desktop/VR/MyProject-20210519T221455Z-001/MyProject/Content/ArchVizAssets/Assets/Materials/M_SecurityCamera_Screen.uasset" 624
+"../../../../../../Users/Liam Kujawski/Desktop/VR/MyProject-20210519T221455Z-001/MyProject/Content/ArchVizAssets/Assets/Meshes/SM_Cog_Underground_Console_Monitor.uasset" 625
+"../../../../../../Users/Liam Kujawski/Desktop/VR/MyProject-20210519T221455Z-001/MyProject/Content/ArchVizAssets/Assets/Materials/M_SecurityCamera_Screen_Transition_Inst.uasset" 626
+"../../../../../../Users/Liam Kujawski/Desktop/VR/MyProject-20210519T221455Z-001/MyProject/Content/ArchVizAssets/Assets/Audio/Blueprints_ComputerStatic01.uasset" 627
+"../../../../../../Users/Liam Kujawski/Desktop/VR/MyProject-20210519T221455Z-001/MyProject/Content/ArchVizAssets/Assets/Audio/Blueprints_ComputerStatic01_Cue.uasset" 628
+"../../../../../../Users/Liam Kujawski/Desktop/VR/MyProject-20210519T221455Z-001/MyProject/Content/ArchVizAssets/Assets/Blueprints/BP_Security_Monitor.uasset" 629
+"../../../../../../Users/Liam Kujawski/Desktop/VR/MyProject-20210519T221455Z-001/MyProject/Content/ArchVizAssets/Assets/Meshes/SM_Security_Flashing_Alarm.uasset" 630
+"../../../../../../Users/Liam Kujawski/Desktop/VR/MyProject-20210519T221455Z-001/MyProject/Content/ArchVizAssets/Assets/Blueprints/BP_Security_Flashing_Alarm.uasset" 631
+"../../../../../../Users/Liam Kujawski/Desktop/VR/MyProject-20210519T221455Z-001/MyProject/Content/ArchVizAssets/Assets/Textures/T_TilingNoise03_M.uasset" 632
+"../../../../../../Users/Liam Kujawski/Desktop/VR/MyProject-20210519T221455Z-001/MyProject/Content/ArchVizAssets/Assets/Meshes/S_BuildingSetA_Building_02b.uasset" 633
+"../../../../../../Users/Liam Kujawski/Desktop/VR/MyProject-20210519T221455Z-001/MyProject/Content/ArchVizAssets/Assets/Meshes/S_Door_Hinged_Metal_Frame_01.uasset" 634
+"../../../../../../Users/Liam Kujawski/Desktop/VR/MyProject-20210519T221455Z-001/MyProject/Content/ArchVizAssets/Assets/Materials/M_COG_Underground_Pipe_Tjunction_Painted_Blue.uasset" 635
+"../../../../../../Users/Liam Kujawski/Desktop/VR/MyProject-20210519T221455Z-001/MyProject/Content/ArchVizAssets/Assets/Materials/M_COG_Underground_Pipe_Painted_Blue.uasset" 636
+"../../../../../../Users/Liam Kujawski/Desktop/VR/MyProject-20210519T221455Z-001/MyProject/Content/ArchVizAssets/Assets/Materials/M_COG_Courthouse_MarbleFloor_2_Fresnel.uasset" 637
+"../../../../../../Users/Liam Kujawski/Desktop/VR/MyProject-20210519T221455Z-001/MyProject/Content/ArchVizAssets/Assets/Audio/Blueprints_Scanner12.uasset" 638
+"../../../../../../Users/Liam Kujawski/Desktop/VR/MyProject-20210519T221455Z-001/MyProject/Content/ArchVizAssets/Assets/Audio/Blueprints_Scanner03.uasset" 639
+"../../../../../../Users/Liam Kujawski/Desktop/VR/MyProject-20210519T221455Z-001/MyProject/Content/ArchVizAssets/Assets/Audio/Blueprints_Alarm10.uasset" 640
+"../../../../../../Users/Liam Kujawski/Desktop/VR/MyProject-20210519T221455Z-001/MyProject/Content/ArchVizAssets/Assets/Audio/Blueprints_BeamAlarmLarge_Cue.uasset" 641
+"../../../../../../Users/Liam Kujawski/Desktop/VR/MyProject-20210519T221455Z-001/MyProject/Content/SM_Sphere.uasset" 642
+"../../../../../../Users/Liam Kujawski/Desktop/VR/MyProject-20210519T221455Z-001/MyProject/Content/SM_Cylinder.uasset" 643
+"../../../../../../Users/Liam Kujawski/Desktop/VR/MyProject-20210519T221455Z-001/MyProject/Content/M_Stroke.uasset" 644
+"../../../../../../Users/Liam Kujawski/Desktop/VR/MyProject-20210519T221455Z-001/MyProject/Content/BP_Stroke.uasset" 645
+"../../../../../../Users/Liam Kujawski/Desktop/VR/MyProject-20210519T221455Z-001/MyProject/Content/BP_HandController.uasset" 646
+"../../../Engine/Content/VREditor/Devices/Vive/VivePreController_MasksB.uasset" 647
+"../../../Engine/Content/VREditor/Devices/Oculus/OculusControllerMaterial.uasset" 648
+"../../../Engine/Content/VREditor/Devices/Oculus/OculusControllerMaterial_Inst.uasset" 649
+"../../../Engine/Content/VREditor/Devices/Oculus/OculusControllerMesh.uasset" 650
+"../../../../../../Users/Liam Kujawski/Desktop/VR/MyProject-20210519T221455Z-001/MyProject/Content/BP_VRCharacter.uasset" 651
+"../../../../../../Users/Liam Kujawski/Desktop/VR/MyProject-20210519T221455Z-001/MyProject/Content/GameModes/BP_DrawingGameMode.uasset" 652
+"../../../../../../Users/Liam Kujawski/Desktop/VR/MyProject-20210519T221455Z-001/MyProject/Content/ArchVizAssets/Assets/Meshes/SM_Security_Camera_Viewcone.uasset" 653
+"../../../../../../Users/Liam Kujawski/Desktop/VR/MyProject-20210519T221455Z-001/MyProject/Content/ArchVizAssets/Assets/Meshes/SM_Security_Camera_Lens.uasset" 654
+"../../../../../../Users/Liam Kujawski/Desktop/VR/MyProject-20210519T221455Z-001/MyProject/Content/ArchVizAssets/Assets/Meshes/SM_Security_Camera_Base.uasset" 655
+"../../../../../../Users/Liam Kujawski/Desktop/VR/MyProject-20210519T221455Z-001/MyProject/Content/ArchVizAssets/Assets/Audio/Blueprints_Scanner17.uasset" 656
+"../../../../../../Users/Liam Kujawski/Desktop/VR/MyProject-20210519T221455Z-001/MyProject/Content/ArchVizAssets/Assets/Audio/Blueprints_Scanner10.uasset" 657
+"../../../../../../Users/Liam Kujawski/Desktop/VR/MyProject-20210519T221455Z-001/MyProject/Content/ArchVizAssets/Assets/Audio/Blueprints_BeamScanner_Cue.uasset" 658
+"../../../../../../Users/Liam Kujawski/Desktop/VR/MyProject-20210519T221455Z-001/MyProject/Content/ArchVizAssets/Assets/Audio/Blueprints_Scanner16.uasset" 659
+"../../../../../../Users/Liam Kujawski/Desktop/VR/MyProject-20210519T221455Z-001/MyProject/Content/ArchVizAssets/Assets/Audio/Blueprints_BeamAlarmSmall_Cue.uasset" 660
+"../../../../../../Users/Liam Kujawski/Desktop/VR/MyProject-20210519T221455Z-001/MyProject/Content/ArchVizAssets/Assets/Audio/Blueprints_Scanner_Change05.uasset" 661
+"../../../../../../Users/Liam Kujawski/Desktop/VR/MyProject-20210519T221455Z-001/MyProject/Content/ArchVizAssets/Assets/Audio/Blueprints_ScannerSwitch01.uasset" 662
+"../../../../../../Users/Liam Kujawski/Desktop/VR/MyProject-20210519T221455Z-001/MyProject/Content/ArchVizAssets/Assets/Audio/Blueprints_ScannerPivot05.uasset" 663
+"../../../../../../Users/Liam Kujawski/Desktop/VR/MyProject-20210519T221455Z-001/MyProject/Content/ArchVizAssets/Assets/Audio/Blueprints_ScannerPivot04.uasset" 664
+"../../../../../../Users/Liam Kujawski/Desktop/VR/MyProject-20210519T221455Z-001/MyProject/Content/ArchVizAssets/Assets/Audio/Blueprints_ScannerPivot01.uasset" 665
+"../../../../../../Users/Liam Kujawski/Desktop/VR/MyProject-20210519T221455Z-001/MyProject/Content/ArchVizAssets/Assets/Audio/Blueprints_ComputerBeep01.uasset" 666
+"../../../../../../Users/Liam Kujawski/Desktop/VR/MyProject-20210519T221455Z-001/MyProject/Content/ArchVizAssets/Assets/Audio/Blueprints_SwitchScanner01_Cue.uasset" 667
+"../../../../../../Users/Liam Kujawski/Desktop/VR/MyProject-20210519T221455Z-001/MyProject/Content/ArchVizAssets/Assets/Audio/Blueprints_Scanner_Change04.uasset" 668
+"../../../../../../Users/Liam Kujawski/Desktop/VR/MyProject-20210519T221455Z-001/MyProject/Content/ArchVizAssets/Assets/Audio/Blueprints_Scanner_Change01.uasset" 669
+"../../../../../../Users/Liam Kujawski/Desktop/VR/MyProject-20210519T221455Z-001/MyProject/Content/ArchVizAssets/Assets/Audio/Blueprints_SwitchAlarm01_Cue.uasset" 670
+"../../../../../../Users/Liam Kujawski/Desktop/VR/MyProject-20210519T221455Z-001/MyProject/Content/ArchVizAssets/Assets/Blueprints/BP_Security_Camera_Tracking.uasset" 671
+"../../../../../../Users/Liam Kujawski/Desktop/VR/MyProject-20210519T221455Z-001/MyProject/Content/ArchVizAssets/Assets/Textures/T_HR_Grass01_N.uasset" 672
+"../../../../../../Users/Liam Kujawski/Desktop/VR/MyProject-20210519T221455Z-001/MyProject/Content/ArchVizAssets/Assets/Textures/T_HR_Grass01_D.uasset" 673
+"../../../../../../Users/Liam Kujawski/Desktop/VR/MyProject-20210519T221455Z-001/MyProject/Content/ArchVizAssets/Assets/Materials/M_HR_Grass_MASTER.uasset" 674
+"../../../../../../Users/Liam Kujawski/Desktop/VR/MyProject-20210519T221455Z-001/MyProject/Content/ArchVizAssets/Assets/Materials/M_HR_Grass_01_Inst.uasset" 675
+"../../../../../../Users/Liam Kujawski/Desktop/VR/MyProject-20210519T221455Z-001/MyProject/Content/ArchVizAssets/Assets/Materials/M_HR_Grass_01_Flower_Inst.uasset" 676
+"../../../../../../Users/Liam Kujawski/Desktop/VR/MyProject-20210519T221455Z-001/MyProject/Content/ArchVizAssets/Assets/Materials/M_HR_Grass_01_B_Inst.uasset" 677
+"../../../../../../Users/Liam Kujawski/Desktop/VR/MyProject-20210519T221455Z-001/MyProject/Content/ArchVizAssets/Assets/Meshes/SM_HR_Grass05.uasset" 678
+"../../../../../../Users/Liam Kujawski/Desktop/VR/MyProject-20210519T221455Z-001/MyProject/Content/ArchVizAssets/Assets/Meshes/SM_HR_Grass04.uasset" 679
+"../../../../../../Users/Liam Kujawski/Desktop/VR/MyProject-20210519T221455Z-001/MyProject/Content/ArchVizAssets/Assets/Meshes/SM_HR_Grass02.uasset" 680
+"../../../../../../Users/Liam Kujawski/Desktop/VR/MyProject-20210519T221455Z-001/MyProject/Content/ArchVizAssets/Assets/Meshes/SM_HR_Grass01.uasset" 681
+"../../../../../../Users/Liam Kujawski/Desktop/VR/MyProject-20210519T221455Z-001/MyProject/Content/ArchVizAssets/Assets/Blueprints/BP_Random_Foliage.uasset" 682
+"../../../../../../Users/Liam Kujawski/Desktop/VR/MyProject-20210519T221455Z-001/MyProject/Content/ArchVizAssets/Assets/Textures/T_GodRay_Mask01.uasset" 683
+"../../../../../../Users/Liam Kujawski/Desktop/VR/MyProject-20210519T221455Z-001/MyProject/Content/ArchVizAssets/Assets/Meshes/SM_GodRay_Plane.uasset" 684
+"../../../../../../Users/Liam Kujawski/Desktop/VR/MyProject-20210519T221455Z-001/MyProject/Content/ArchVizAssets/Assets/Materials/M_GodRay_MASTER.uasset" 685
+"../../../../../../Users/Liam Kujawski/Desktop/VR/MyProject-20210519T221455Z-001/MyProject/Content/ArchVizAssets/Assets/Materials/M_GodRay_Animated.uasset" 686
+"../../../../../../Users/Liam Kujawski/Desktop/VR/MyProject-20210519T221455Z-001/MyProject/Content/ArchVizAssets/Assets/Textures/T_GodRay_Mask02.uasset" 687
+"../../../../../../Users/Liam Kujawski/Desktop/VR/MyProject-20210519T221455Z-001/MyProject/Content/ArchVizAssets/Assets/Blueprints/BP_LightBeam.uasset" 688
+"../../../../../../Users/Liam Kujawski/Desktop/VR/MyProject-20210519T221455Z-001/MyProject/Content/ArchVizAssets/Assets/Materials/ML_Raycast.uasset" 689
+"../../../../../../Users/Liam Kujawski/Desktop/VR/MyProject-20210519T221455Z-001/MyProject/Content/ArchVizAssets/Assets/Materials/ML_NormalMaskedVectors.uasset" 690
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Gradient/RadialGradient.uasset" 691
+"../../../../../../Users/Liam Kujawski/Desktop/VR/MyProject-20210519T221455Z-001/MyProject/Content/ArchVizAssets/Assets/Materials/M_FogSheet_Master.uasset" 692
+"../../../../../../Users/Liam Kujawski/Desktop/VR/MyProject-20210519T221455Z-001/MyProject/Content/ArchVizAssets/Assets/Materials/M_FogSheet_Master_INST.uasset" 693
+"../../../../../../Users/Liam Kujawski/Desktop/VR/MyProject-20210519T221455Z-001/MyProject/Content/ArchVizAssets/Assets/Meshes/SM_FogSheet_Plane.uasset" 694
+"../../../../../../Users/Liam Kujawski/Desktop/VR/MyProject-20210519T221455Z-001/MyProject/Content/ArchVizAssets/Assets/Blueprints/BP_FogSheet.uasset" 695
+"../../../../../../Users/Liam Kujawski/Desktop/VR/MyProject-20210519T221455Z-001/MyProject/Content/ArchVizAssets/Assets/Textures/T_TextBox_Icon_M.uasset" 696
+"../../../Engine/Content/Functions/MaterialLayerFunctions/MatLayerBlend_ModulateRoughness.uasset" 697
+"../../../Engine/Content/Functions/Engine_MaterialFunctions03/Particles/Distance_Blend.uasset" 698
+"../../../../../../Users/Liam Kujawski/Desktop/VR/MyProject-20210519T221455Z-001/MyProject/Content/ArchVizAssets/Assets/Materials/M_TextBox_Icon_Info.uasset" 699
+"../../../../../../Users/Liam Kujawski/Desktop/VR/MyProject-20210519T221455Z-001/MyProject/Content/ArchVizAssets/Assets/Meshes/S_TextBox_Icon_Info.uasset" 700
+"../../../../../../Users/Liam Kujawski/Desktop/VR/MyProject-20210519T221455Z-001/MyProject/Content/ArchVizAssets/Assets/Materials/M_TextBox_Color.uasset" 701
+"../../../Engine/Content/EngineVolumetrics/Fogsheet/Materials/T_EV_FogSheet_Falloff_02.uasset" 702
+"../../../../../../Users/Liam Kujawski/Desktop/VR/MyProject-20210519T221455Z-001/MyProject/Content/ArchVizAssets/Assets/Materials/M_TextBox_Background_Color.uasset" 703
+"../../../../../../Users/Liam Kujawski/Desktop/VR/MyProject-20210519T221455Z-001/MyProject/Content/ArchVizAssets/Assets/Materials/M_TextBox_Background_Color_Edge_Inst.uasset" 704
+"../../../../../../Users/Liam Kujawski/Desktop/VR/MyProject-20210519T221455Z-001/MyProject/Content/ArchVizAssets/Assets/Meshes/S_TextBox_Border_Segment.uasset" 705
+"../../../../../../Users/Liam Kujawski/Desktop/VR/MyProject-20210519T221455Z-001/MyProject/Content/ArchVizAssets/Assets/Meshes/S_TextBox_Border_Corner.uasset" 706
+"../../../../../../Users/Liam Kujawski/Desktop/VR/MyProject-20210519T221455Z-001/MyProject/Content/ArchVizAssets/Assets/Meshes/S_TextBox_Border_Background.uasset" 707
+"../../../../../../Users/Liam Kujawski/Desktop/VR/MyProject-20210519T221455Z-001/MyProject/Content/ArchVizAssets/Assets/Materials/M_Particle_Effect_Ring.uasset" 708
+"../../../../../../Users/Liam Kujawski/Desktop/VR/MyProject-20210519T221455Z-001/MyProject/Content/ArchVizAssets/Assets/Effects/P_Pulse_Ring.uasset" 709
+"../../../../../../Users/Liam Kujawski/Desktop/VR/MyProject-20210519T221455Z-001/MyProject/Content/ArchVizAssets/Assets/Audio/Text_Pop.uasset" 710
+"../../../../../../Users/Liam Kujawski/Desktop/VR/MyProject-20210519T221455Z-001/MyProject/Content/ArchVizAssets/Assets/Audio/Blueprints_TextPop03.uasset" 711
+"../../../../../../Users/Liam Kujawski/Desktop/VR/MyProject-20210519T221455Z-001/MyProject/Content/ArchVizAssets/Assets/Audio/Blueprints_TextPop01.uasset" 712
+"../../../../../../Users/Liam Kujawski/Desktop/VR/MyProject-20210519T221455Z-001/MyProject/Content/ArchVizAssets/Assets/Audio/Text_Pop_Cue.uasset" 713
+"../../../../../../Users/Liam Kujawski/Desktop/VR/MyProject-20210519T221455Z-001/MyProject/Content/ArchVizAssets/Assets/Blueprints/BP_Commentary_Box.uasset" 714
+"../../../../../../Users/Liam Kujawski/Desktop/VR/MyProject-20210519T221455Z-001/MyProject/Content/ArchVizAssets/Assets/Audio/Insect_WingsLoop05.uasset" 715
+"../../../../../../Users/Liam Kujawski/Desktop/VR/MyProject-20210519T221455Z-001/MyProject/Content/ArchVizAssets/Assets/Audio/Blueprints_Butterfly02.uasset" 716
+"../../../../../../Users/Liam Kujawski/Desktop/VR/MyProject-20210519T221455Z-001/MyProject/Content/ArchVizAssets/Assets/Audio/Blueprints_Butterfly_Cue.uasset" 717
+"../../../../../../Users/Liam Kujawski/Desktop/VR/MyProject-20210519T221455Z-001/MyProject/Content/ArchVizAssets/Assets/Audio/Blueprints_Buterrest.uasset" 718
+"../../../../../../Users/Liam Kujawski/Desktop/VR/MyProject-20210519T221455Z-001/MyProject/Content/ArchVizAssets/Assets/Audio/Blueprints_Buterrest_Cue.uasset" 719
+"../../../../../../Users/Liam Kujawski/Desktop/VR/MyProject-20210519T221455Z-001/MyProject/Content/ArchVizAssets/Assets/Meshes/S_Butterfly_Right_Wing.uasset" 720
+"../../../../../../Users/Liam Kujawski/Desktop/VR/MyProject-20210519T221455Z-001/MyProject/Content/ArchVizAssets/Assets/Meshes/S_Butterfly_Left_Wing.uasset" 721
+"../../../../../../Users/Liam Kujawski/Desktop/VR/MyProject-20210519T221455Z-001/MyProject/Content/ArchVizAssets/Assets/Materials/M_Butterfly_Body.uasset" 722
+"../../../../../../Users/Liam Kujawski/Desktop/VR/MyProject-20210519T221455Z-001/MyProject/Content/ArchVizAssets/Assets/Meshes/S_Butterfly_Body.uasset" 723
+"../../../../../../Users/Liam Kujawski/Desktop/VR/MyProject-20210519T221455Z-001/MyProject/Content/ArchVizAssets/Assets/Materials/M_Particle_Glow.uasset" 724
+"../../../../../../Users/Liam Kujawski/Desktop/VR/MyProject-20210519T221455Z-001/MyProject/Content/ArchVizAssets/Assets/Effects/P_Butterfly_Trail.uasset" 725
+"../../../../../../Users/Liam Kujawski/Desktop/VR/MyProject-20210519T221455Z-001/MyProject/Content/ArchVizAssets/Assets/Blueprints/BP_Butterfly.uasset" 726
+"../../../../../../Users/Liam Kujawski/Desktop/VR/MyProject-20210519T221455Z-001/MyProject/Content/ArchVizAssets/Assets/Audio/Blueprints_ComputerStatic06.uasset" 727
+"../../../../../../Users/Liam Kujawski/Desktop/VR/MyProject-20210519T221455Z-001/MyProject/Content/ArchVizAssets/Assets/Audio/Blueprints_ComputerStatic07_Cue.uasset" 728
+"../../../Engine/Content/MapTemplates/Sky/T_UDK_Sky_CloudMask01_N.uasset" 729
+"../../../Engine/Content/MapTemplates/Sky/T_Sky_Stars.uasset" 730
+"../../../Engine/Content/MapTemplates/Sky/M_Procedural_Sky_MASTER02.uasset" 731
+"../../../Engine/Content/MapTemplates/Sky/SM_SkySphere.uasset" 732
+"../../../../../../Users/Liam Kujawski/Desktop/VR/MyProject-20210519T221455Z-001/MyProject/Content/Maps/MainMap_BuiltData.uasset" 733
+"../../../../../../Users/Liam Kujawski/Desktop/VR/MyProject-20210519T221455Z-001/MyProject/Content/Maps/MainMap.umap" 734
+"../../../../../../Users/Liam Kujawski/Desktop/VR/MyProject-20210519T221455Z-001/MyProject/Content/UI/DocumentPicker/Images/Card_Pressed.uasset" 735
+"../../../../../../Users/Liam Kujawski/Desktop/VR/MyProject-20210519T221455Z-001/MyProject/Content/UI/DocumentPicker/Images/Card_Normal.uasset" 736
+"../../../../../../Users/Liam Kujawski/Desktop/VR/MyProject-20210519T221455Z-001/MyProject/Content/UI/DocumentPicker/Images/Card_Hovered.uasset" 737
+"../../../../../../Users/Liam Kujawski/Desktop/VR/MyProject-20210519T221455Z-001/MyProject/Content/UI/DocumentPicker/WBP_DocumentGridCard.uasset" 738
+"../../../../../../Users/Liam Kujawski/Desktop/VR/MyProject-20210519T221455Z-001/MyProject/Content/UI/DocumentPicker/Images/PanelNextButton_right_pressed.uasset" 739
+"../../../../../../Users/Liam Kujawski/Desktop/VR/MyProject-20210519T221455Z-001/MyProject/Content/UI/DocumentPicker/Images/PanelNextButton_right_hover.uasset" 740
+"../../../../../../Users/Liam Kujawski/Desktop/VR/MyProject-20210519T221455Z-001/MyProject/Content/UI/DocumentPicker/Images/PanelNextButton_left_pressed.uasset" 741
+"../../../../../../Users/Liam Kujawski/Desktop/VR/MyProject-20210519T221455Z-001/MyProject/Content/UI/DocumentPicker/Images/PanelNextButton_left_hover.uasset" 742
+"../../../../../../Users/Liam Kujawski/Desktop/VR/MyProject-20210519T221455Z-001/MyProject/Content/UI/DocumentPicker/Images/PanelNextButton__right_inactive.uasset" 743
+"../../../../../../Users/Liam Kujawski/Desktop/VR/MyProject-20210519T221455Z-001/MyProject/Content/UI/DocumentPicker/Images/PanelNextButton__left_inactive.uasset" 744
+"../../../../../../Users/Liam Kujawski/Desktop/VR/MyProject-20210519T221455Z-001/MyProject/Content/UI/DocumentPicker/Images/dot_inactive.uasset" 745
+"../../../../../../Users/Liam Kujawski/Desktop/VR/MyProject-20210519T221455Z-001/MyProject/Content/UI/DocumentPicker/Images/dot_active.uasset" 746
+"../../../../../../Users/Liam Kujawski/Desktop/VR/MyProject-20210519T221455Z-001/MyProject/Content/UI/DocumentPicker/WBP_DocumentGrid.uasset" 747
+"../../../../../../Users/Liam Kujawski/Desktop/VR/MyProject-20210519T221455Z-001/MyProject/Content/UI/DocumentPicker/Images/text_exit.uasset" 748
+"../../../../../../Users/Liam Kujawski/Desktop/VR/MyProject-20210519T221455Z-001/MyProject/Content/UI/DocumentPicker/Images/large_button_pressed.uasset" 749
+"../../../../../../Users/Liam Kujawski/Desktop/VR/MyProject-20210519T221455Z-001/MyProject/Content/UI/DocumentPicker/Images/large_button_normal.uasset" 750
+"../../../../../../Users/Liam Kujawski/Desktop/VR/MyProject-20210519T221455Z-001/MyProject/Content/UI/DocumentPicker/Images/large_button_hovered.uasset" 751
+"../../../../../../Users/Liam Kujawski/Desktop/VR/MyProject-20210519T221455Z-001/MyProject/Content/UI/DocumentPicker/Images/ic_exit.uasset" 752
+"../../../../../../Users/Liam Kujawski/Desktop/VR/MyProject-20210519T221455Z-001/MyProject/Content/UI/DocumentPicker/Images/ic_delete.uasset" 753
+"../../../../../../Users/Liam Kujawski/Desktop/VR/MyProject-20210519T221455Z-001/MyProject/Content/UI/DocumentPicker/Images/ic_add.uasset" 754
+"../../../../../../Users/Liam Kujawski/Desktop/VR/MyProject-20210519T221455Z-001/MyProject/Content/UI/DocumentPicker/Images/button_pressed.uasset" 755
+"../../../../../../Users/Liam Kujawski/Desktop/VR/MyProject-20210519T221455Z-001/MyProject/Content/UI/DocumentPicker/Images/button_normal.uasset" 756
+"../../../../../../Users/Liam Kujawski/Desktop/VR/MyProject-20210519T221455Z-001/MyProject/Content/UI/DocumentPicker/Images/button_hovered.uasset" 757
+"../../../../../../Users/Liam Kujawski/Desktop/VR/MyProject-20210519T221455Z-001/MyProject/Content/UI/DocumentPicker/WBP_ActionBar.uasset" 758
+"../../../../../../Users/Liam Kujawski/Desktop/VR/MyProject-20210519T221455Z-001/MyProject/Content/UI/DocumentPicker/BP_DocumentPicker.uasset" 759
+"../../../../../../Users/Liam Kujawski/Desktop/VR/MyProject-20210519T221455Z-001/MyProject/Content/Maps/MainMenu.umap" 760
